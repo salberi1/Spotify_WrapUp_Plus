@@ -6,11 +6,11 @@ from dotenv import load_dotenv
 class Authenticator:
     def __init__(self):
         load_dotenv()
-        self.scope = "user-library-read"
+        self.scopes = "user-library-read user-top-read playlist-read-private user-follow-read user-read-recently-played user-read-playback-state"
         self.client_id = os.getenv('SPOTIPY_CLIENT_ID')
         self.client_secret = os.getenv('SPOTIPY_CLIENT_SECRET')
         self.redirect_uri = os.getenv('SPOTIPY_REDIRECT_URI')
-        self.sp_oauth = SpotifyOAuth(scope=self.scope,
+        self.sp_oauth = SpotifyOAuth(scope=self.scopes,
                                      client_id=self.client_id,
                                      client_secret=self.client_secret,
                                      redirect_uri=self.redirect_uri)
