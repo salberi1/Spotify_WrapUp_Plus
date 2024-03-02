@@ -14,7 +14,7 @@ def index():
     # Convert Plotly figure to HTML representation
     graph_html = pio.to_html(fig, full_html=False)
 
-    return render_template('index.html', graph_html=graph_html)
-
+    return render_template('index2.html', graph_html=graph_html)
+2
 if __name__ == '__main__':
     app.run(debug=True)
