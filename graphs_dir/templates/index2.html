@@ -10,6 +10,7 @@
         margin: 0;
         font-family: Arial;
         padding: 0;
+        background-color: #191414;
         }
 
         /* Style tab links */
@@ -42,11 +43,44 @@
         #Top_Listens {background-color: #8203DF}
         #Top_Albums {background-color: orange;}
 
+        @font-face {
+            font-family: 'Franie';
+            src: url("{{ url_for('static', filename='franie-font/FranieVariableTest-Black-BF64c31f3ca614b.otf') }}") format('opentype');
+            font-weight: bold;
+            font-style: normal;
+        }
         h1 {
             text-align: center;
-            margin: 0; /* Remove default margin */
+            margin: 5vh 0; /* Increase the top margin to take up more space */
+            padding: 20px; /* Add padding to increase background space */
+            font-family: 'Franie', sans-serif;
             background-color: #191414;
             color: white;
+        }
+
+        @keyframes rotateAnimation {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .rotating-image {
+            position: absolute; /* or 'relative' depending on your layout */
+            left: 10px; /* Adjust as needed */
+            top: 300px; /* Adjust as needed */
+            animation: rotateAnimation 5s linear infinite;
+        }
+
+        #spotify-logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 180px; /* Adjust the width as needed */
+            height: auto;
+            z-index: 1000; /* Higher z-index to ensure it's on top */
         }
     </style>
     <script>
@@ -79,16 +113,16 @@
 </head>
 
 <body>
+    <img id="spotify-logo" src="{{ url_for('static', filename='spotify_logo.png') }}" alt="Spotify Logo">
     <h1>Hey, Welcome to Spotify Wrapped Plus!<br>Here are some of your top mentions</h1>
 
     <button class="tablink" onclick="openPage('Top_Artists', this, 'red')">Top Artists</button>
     <button class="tablink" onclick="openPage('Top_Tracks', this, 'green')" id="defaultOpen">Top Tracks</button>
-    <button class="tablink" onclick="openPage('Top_Listens', this, 'purple')">Top Listens</button>
+    <button class="tablink" onclick="openPage('Top_Listens', this, '#8203DF')">Top Listens</button>
     <button class="tablink" onclick="openPage('Top_Albums', this, 'orange')">Top Albums</button>
 
     <div id="Top_Artists" class="tabcontent">
-        <h3>Top Artists</h3>
-        <p>Top Artists is where the heart is..</p>
+            <img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
     </div>
 
     <div id="Top_Tracks" class="tabcontent">
