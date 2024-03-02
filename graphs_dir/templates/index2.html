@@ -11,7 +11,6 @@
         font-family: Arial;
         padding: 0;
         background-color: #191414;
-        background-color: #191414;
         }
 
         /* Style tab links */
@@ -52,12 +51,11 @@
         }
         h1 {
             text-align: center;
-            margin: 5vh 0; /* Increase the top margin to take up more space */
-            padding: 20px; /* Add padding to increase background space */
-            font-family: 'Franie', sans-serif;
+            margin: 5vh 0; 
             background-color: #191414;
             color: white;
         }
+        
 
         @keyframes pulseAnimation {
             0% {
@@ -88,7 +86,7 @@
             z-index: 1000; /* Higher z-index to ensure it's on top */
         }
         
-         .song-list {
+        .song-list {
             position: absolute;
             top: 220px;
             right: 50px;
@@ -115,7 +113,7 @@
         
     }
    
-        .song-list-TopListens {
+    .song-list-TopListens {
             color: #ffcc99; /* Light orange text color */
         background-color: #6666ff; /* Light blue background color */
         border: 5px solid #00cc99; /* Green border */
@@ -133,6 +131,11 @@
         color: #000080; /* Dark yellow text color */
         background-color: #FFFFE0; /* Cyan background color */
         border: 5px solid  #006400; /* Dark red border */
+        overflow-y: auto; 
+        
+            padding-top: 15px;
+            max-width: 375px;
+            max-height: 400px
     }
 </style>
 
