@@ -1,6 +1,4 @@
-from authenticator import Authenticator
-import pandas as pd
-
+   
 def test_authentication():
     auth_instance = Authenticator()
     auth_url = auth_instance.sp_oauth.get_authorize_url()

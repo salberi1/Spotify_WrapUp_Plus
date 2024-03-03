@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        /*CSS CODE!!!
+        /* Set height of body and the document to 100% to enable "full page tabs" */
+        body, html {
+        height: 100%;
+        margin: 0;
+        font-family: Arial;
+        padding: 0;
+        }
+
+        /* Style tab links */
+        .tablink {
+        background-color: #555;
+        color: white;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        font-size: 17px;
+        width: 25%;
+        }
+
+        .tablink:hover {
+        background-color: #191414;
+        }
+
+        /* Style the tab content (and add height:100% for full page content) */
+        .tabcontent {
+        color: white;
+        display: none;
+        padding: 100px 20px;
+        height: 100%;
+        }
+
+        #Top_Artists {background-color: red;}
+        #Top_Tracks {background-color: green;}
+        #Top_Listens {background-color: #8203DF}
+        #Top_Albums {background-color: orange;}
+
+        h1 {
+            text-align: center;
+            margin: 0; /* Remove default margin */
+            background-color: #191414;
+            color: white;
+        }
+        
+         .song-list {
+            position: absolute;
+            top: 220px;
+            right: 50px;
+            text-align: center; /* Center the text */
+            white-space: pre-line;
+            max-height: 500px;
+            margin: 0;
+            padding: 20px; /* Add extra padding */
+            border-radius: 10px;
+            font-weight: bold; /* Make the text bold */
+            display: flex; /* Use flexbox to center the text vertically */
+            align-items: center; /* Center the text vertically */
+            justify-content: center; /* Center the text horizontally */
+    
+        }
+        .song-list-TopTracks{
+            color: #ff6666; /* Light Red text */
+            background-color: #20ff20; /* Light green background */
+            border: 5px solid #ff9999; /* Light Pink border */
+            overflow-y: auto; 
+            padding-top: 150px;
+            max-width: 375px;
+            max-height: 400px;
+        
+    }
+   
+        .song-list-TopListens {
+            color: #ffcc99; /* Light orange text color */
+        background-color: #6666ff; /* Light blue background color */
+        border: 5px solid #00cc99; /* Green border */
+    }
+    .song-list-TopArtist {
+            color: #ffcc99; /* Light orange text color */
+            overflow-y: auto; 
+            padding-top: 275px;
+            min-width: 375px;
+            max-height: 400px;
+        background-color: #6666ff; /* Light blue background color */
+        border: 5px solid #00cc99; /* Green border */
+    }
+    .song-list-TopAlbums {
+        color: #000080; /* Dark yellow text color */
+        background-color: #FFFFE0; /* Cyan background color */
+        border: 5px solid  #006400; /* Dark red border */
+    }
+</style>
+
+    </style>
+    <script>
+        //JAVASCRIPT CODE!!!
+        function openPage(pageName, elmnt, color) {
+
+            // Hide all elements with class="tabcontent" by default
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+
+            // Remove the "active" class from all elements with class="tablink"
+            tablinks = document.getElementsByClassName("tablink");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].style.backgroundColor = "";
+            }
+
+            // Show the specific tab content
+            document.getElementById(pageName).style.display = "block";
+
+            // Add the "active" class to the button that opened the tab
+            elmnt.style.backgroundColor = color;
+        }
+
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+    </script>
+</head>
+
+<body>
+    <h1>Hey, Welcome to Spotify Wrapped Plus!<br>Here are some of your top mentions</h1>
+
+    <button class="tablink" onclick="openPage('Top_Artists', this, 'red')">Top Artists</button>
+    <button class="tablink" onclick="openPage('Top_Tracks', this, 'green')" id="defaultOpen">Top Tracks</button>
+    <button class="tablink" onclick="openPage('Top_Listens', this, 'purple')">Top Listens</button>
+    <button class="tablink" onclick="openPage('Top_Albums', this, 'orange')">Top Albums</button>
+
+    <div id="Top_Artists" class="tabcontent">
+        <h3>Top Artists</h3>
+        <p>Top Artists is where the heart is..</p>
+        <div class="song-list song-list-TopArtist">
+            Recommended Songs
+            Imagine Dragons
+            Sleeping With Sirens
+            PVRIS
+            Weezer
+            Coldplay
+            Of Monsters and Men
+            The Neighbourhood
+            Mumford & Sons
+            Kings of Leon
+            Arctic Monkeys
+            Lana Del Rey
+            Maggie Rogers
+            Lewis Capaldi
+            James Bay
+            LANY
+            Foster the People
+            The 1975
+            Joy Division
+            Eden
+            CHVRCHES
+            Blackbear
+            Years & Years
+            Alt-J
+            Walk The Moon
+            The Fray
+            The Lumineers
+            Julia Michaels
+            Sigrid
+            Twin Atlantic
+            Silversun Pickups
+            Machine Gun Kelly
+            The Band CAMINO
+            Nothing But Thieves
+            Rex Orange County
+            SZA
+            Glass Animals
+            YUNGBLUD
+            Tove Lo
+            Saint Motel
+            Alessia Cara
+            Bebe Rexha
+            Plain White T's
+            Beartooth
+            Sum 41
+            Yellowcard
+            New Found Glory
+            Coheed and Cambria
+            The Wonder Years
+            Brand New</div>
+    </div>
+
+    <div id="Top_Tracks" class="tabcontent">
+        <h3>Top Tracks</h3>
+        <p>Some Top Tracks this fine day!</p>
+        <div class="song-list song-list-TopTracks">
+            Recommended Songs
+            1. Royal Blood - "Out of the Black"
+            2. Bring Me The Horizon - "Teardrops"
+            3. YUNGBLUD, Halsey - "11 Minutes (feat. Travis Barker)"
+            4. PVRIS - "Hallucinations"
+            5. Imagine Dragons - "Believer"
+            6. State Champs - "Secrets"
+            7. The Band CAMINO - "Daphne Blue"
+            8. Palaye Royale - "Lonely"
+            9. CHVRCHES - "Clearest Blue"
+            10. Architects - "Animals"
+            11. The Maine - "Sticky"
+            12. Machine Gun Kelly - "my ex's best friend (feat. blackbear)"
+            13. Nothing But Thieves - "Impossible"
+            14. Paris Shadows - "Enough's Enough"
+            15. Grandson - "Blood // Water"
+            16. New Years Day - "Shut Up"
+            17. Beartooth - "Disease"
+            18. Sleeping With Sirens - "Leave It All Behind"
+            19. Against The Current - "Running With The Wild Things"
+            20. The Wrecks - "Favorite Liar"
+            21. Neck Deep - "Lowlife"
+            22. YONAKA - "Seize The Power"
+            23. Spiritbox - "Holy Roller"
+            24. Emarosa - "Givin' Up"
+            25. Hands Like Houses - "Space"
+            26. iDKHOW (I DONT KNOW HOW BUT THEY FOUND ME) - "New Invention"
+            27. Waterparks - "Lowkey As Hell"
+            28. The Score - "Born For This"
+            29. Twin Atlantic - "Crash Land"
+            30. Stand Atlantic - "Blurry"</div>
+    </div>
+        
+    </div>
+
+    <div id="Top_Listens" class="tabcontent">
+        <h3>Top Listens</h3>
+        {{ graph_html | safe }}
+        <div class="song-list song-list-TopListens">
+            Recommended Songs
+            1. Imagine Dragons - "Thunder"
+            2. Lewis Capaldi - "Before You Go"
+            3. Shawn Mendes - "Stitches"
+            4. Lorde - "Green Light"
+            5. Sam Smith - "How Do You Sleep?"
+            6. Lana Del Rey - "Summertime Sadness"
+            7. The Neighbourhood - "Sweater Weather"
+            8. Sia - "Cheap Thrills"
+            9. Ariana Grande - "no tears left to cry"
+            10. Khalid - "Talk"
+            11. Anne-Marie - "2002"
+            12. Tame Impala - "The Less I Know The Better"
+            13. The Weeknd - "Blinding Lights"
+            15. Harry Styles - "Adore You"
+            16. Marina - "Handmade Heaven"
+            17. Zara Larsson - "Lush Life"
+            18. The 1975 - "Somebody Else"
+            19. Camila Cabello - "Never Be the Same"
+            20. Maroon 5 - "Memories"
+            21. James Bay - "Let It Go"
+            22. Ed Sheeran - "Castle on the Hill"
+            23. Selena Gomez - "Lose You To Love Me"
+            24. Major Lazer & DJ Snake feat. MØ - "Lean On"
+            25. Ava Max - "Sweet but Psycho"</div>
+    </div>
+
+    <div id="Top_Albums" class="tabcontent">
+        <h3>Top Albums</h3>
+        <p>Who we are and what we do.</p>
+        <div class="song-list song-list-TopAlbums">
+            Recommended Songs
+            1. Imagine Dragons - "Thunder"
+            2. Lewis Capaldi - "Before You Go"
+            3. Shawn Mendes - "Stitches"
+            4. Lorde - "Green Light"
+            5. Sam Smith - "How Do You Sleep?"
+            6. Lana Del Rey - "Summertime Sadness"
+            7. The Neighbourhood - "Sweater Weather"
+            8. Sia - "Cheap Thrills"
+            9. Ariana Grande - "no tears left to cry"
+            10. Khalid - "Talk"
+            11. Anne-Marie - "2002"
+            12. Tame Impala - "The Less I Know The Better"
+            13. The Weeknd - "Blinding Lights"
+            15. Harry Styles - "Adore You"
+            16. Marina - "Handmade Heaven"
+            17. Zara Larsson - "Lush Life"
+            18. The 1975 - "Somebody Else"
+            19. Camila Cabello - "Never Be the Same"
+            20. Maroon 5 - "Memories"
+            21. James Bay - "Let It Go"
+            22. Ed Sheeran - "Castle on the Hill"
+            23. Selena Gomez - "Lose You To Love Me"
+            24. Major Lazer & DJ Snake feat. MØ - "Lean On"
+            25. Ava Max - "Sweet but Psycho"</div>
+    </div>
+    </div>
+
+
+</body>
+
+</html>
