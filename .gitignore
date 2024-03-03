@@ -1,2 +1,8 @@
 .env
 API_DATA/.env
+.cache
+API_DATA/.cache
+__pycache__
+API_DATA/__pycache__
+API_DATA/data_csvs/
+API_DATA/data_jsons/
