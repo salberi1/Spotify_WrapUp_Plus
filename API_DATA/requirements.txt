@@ -1,3 +1,6 @@
 oauth2
 spotipy
 pandas
+plotly
+seaborn
+matplotlib

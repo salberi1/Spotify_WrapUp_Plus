@@ -185,7 +185,7 @@ class ProcessSpotifyData():
             self.process_top_artists_medium(),
             self.process_top_artists_long(),
             self.process_top_tracks_short(),
-            self.process_top_artists_medium(),
+            self.process_top_tracks_medium(),
             self.process_top_tracks_long(),
             self.process_recently_played(),
             self.process_playlists(),
@@ -366,7 +366,7 @@ class ProcessSpotifyData():
             })
         followed_artists_df = pd.DataFrame(data_list)
         self.data_frames_dict['followed_artists'] = followed_artists_df
-        
+    
 if __name__ == "__main__":
     spotify_auth = SpotifyAuthentication()
     
