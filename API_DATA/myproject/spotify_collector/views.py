@@ -1,6 +1,8 @@
 from django.shortcuts import render
 
 # Create your views here.
+from django.contrib import admin
+from django.urls import path, include
 from django.http import HttpResponse
 import requests
 from dotenv import load_dotenv
@@ -24,7 +26,7 @@ def spotify_callback(request):
         }
         
         response = requests.post(token_url, data=data)
-        if response.status_code = 200:
+        if response.status_code == 200:
             access_token_info = response.json()
             access_token = access_token_info['access_token']
             return HttpResponse("Authetication success. You can close this window.")

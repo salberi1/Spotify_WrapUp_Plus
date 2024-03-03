@@ -26,10 +26,12 @@ class GetSpotifyData:
     def __init__(self, sp):
         self.sp = sp
     
-    def _fetch_with_pagination(self, fetch_function, *args, **kwargs):
+    def _fetch_with_pagination(self, fetch_function, *args, max_calls=25, **kwargs):
         items = []
         page: int = 1
-        while True:
+        api_calls_count = 0
+        
+        while api_calls_count < max_calls:
             try:
                 results = fetch_function(*args, **kwargs)
                 items.extend(results['items'])
@@ -38,6 +40,7 @@ class GetSpotifyData:
                 if not results['next']:
                     break
                 kwargs['offset'] += len(results['items'])
+                api_calls_count += 1
             except spotipy.exceptions.SpotifyException as e:
                 if e.http_status == 429:
                     retry_after = int(e.headers['Retry-After'])
@@ -47,11 +50,12 @@ class GetSpotifyData:
                     raise e
         return items
 
-    def _fetch_followed_artists_with_cursor_pagination(self):
+    def _fetch_followed_artists_with_cursor_pagination(self, max_calls=25):
         followed_artists = []
         after = None  # Cursor initialization
-
-        while True:
+        api_calls_count = 0
+        
+        while api_calls_count < max_calls:
             try:
                 # Fetch followed artists using cursor-based pagination
                 results = self.sp.current_user_followed_artists(limit=50, after=after)
@@ -63,6 +67,7 @@ class GetSpotifyData:
 
                 # Update the 'after' cursor for the next iteration
                 after = results['artists']['cursors']['after']
+                api_calls_count += 1
 
             except spotipy.exceptions.SpotifyException as e:
                 if e.http_status == 429:
@@ -74,12 +79,13 @@ class GetSpotifyData:
 
         return followed_artists        
 
-    def _fetch_recently_played_with_pagination(self):
+    def _fetch_recently_played_with_pagination(self, max_calls=25):
         items = []
         limit = 50
         last_timestamp = None  # Initialize the last timestamp variable
-
-        while True:
+        api_calls_count = 0
+        
+        while api_calls_count < max_calls:
             try:
                 if last_timestamp:
                     # If we have a timestamp, fetch tracks played before this timestamp
@@ -91,6 +97,8 @@ class GetSpotifyData:
                 new_items = results['items']
                 if not new_items:
                     break  # Exit if no more items are returned
+                
+                api_calls_count += 1
                 
                 items.extend(new_items)
                 # Update last_timestamp with the timestamp of the last track fetched
@@ -368,13 +376,10 @@ class ProcessSpotifyData():
         self.data_frames_dict['followed_artists'] = followed_artists_df
     
 if __name__ == "__main__":
-    # spotify_auth = SpotifyAuthentication()
+    spotify_auth = SpotifyAuthentication()
     
-    # auth_instance, response_url = spotify_auth.initiate_authentication()
-    # sp = spotify_auth.authenticate(response_url=response_url)
+    auth_instance, response_url = spotify_auth.initiate_authentication()
+    sp = spotify_auth.authenticate(response_url=response_url)
     
-    # spotify_data = ProcessSpotifyData(sp=sp)
-    # spotify_data.get_data()
-    print("hello")
-    
-print("hello2")
+    spotify_data = ProcessSpotifyData(sp=sp)
+    spotify_data.get_data()
