@@ -15,7 +15,7 @@ def index():
     #fig = px.scatter(x=[1, 2, 3, 4], y=[10, 11, 12, 13], labels={'x': 'X-axis', 'y': 'Y-axis'}, title='My Plot')
     import plotly.express as px
 
-    df = pd.read_csv(r'C:\Users\vince\Desktop\Spotify_WrapUp_Plus\API_DATA\user_data.csv') 
+    df = pd.read_csv(r'/mnt/c/Users/14108/OneDrive/Desktop/HenHacks_Windows/Spotify_WrapUp_Plus/API_DATA/user_data.csv') 
     artist = df['Artist'].value_counts(sort=True)
     number_of_artist= pd.DataFrame(artist)
     number_of_artist.reset_index(inplace=True)

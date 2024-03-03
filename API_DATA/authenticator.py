@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 class Authenticator:
     def __init__(self):
         load_dotenv()
-        self.scope = "user-library-read"
+        self.scope = "user-library-read user-top-read user-read-recently-played user-follow-read"
         self.client_id = os.getenv('SPOTIPY_CLIENT_ID')
         self.client_secret = os.getenv('SPOTIPY_CLIENT_SECRET')
         self.redirect_uri = os.getenv('SPOTIPY_REDIRECT_URI')

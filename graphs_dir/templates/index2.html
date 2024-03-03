@@ -10,6 +10,7 @@
         margin: 0;
         font-family: Arial;
         padding: 0;
+        background-color: #191414;
         }
 
         /* Style tab links */
@@ -42,14 +43,50 @@
         #Top_Listens {background-color: #8203DF}
         #Top_Albums {background-color: orange;}
 
+        @font-face {
+            font-family: 'Franie';
+            src: url("{{ url_for('static', filename='franie-font/FranieVariableTest-Black-BF64c31f3ca614b.otf') }}") format('opentype');
+            font-weight: bold;
+            font-style: normal;
+        }
         h1 {
             text-align: center;
-            margin: 0; /* Remove default margin */
+            margin: 5vh 0; 
             background-color: #191414;
             color: white;
         }
         
-         .song-list {
+
+        @keyframes pulseAnimation {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1); /* Increase for a more pronounced effect */
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .rotating-image {
+            position: absolute; /* or 'relative' depending on your layout */
+            left: 40px; /* Adjust as needed */
+            top: 300px; /* Adjust as needed */
+            width: 800px; 
+            animation: pulseAnimation 2s ease-in-out infinite;
+        }
+
+        #spotify-logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 180px; /* Adjust the width as needed */
+            height: auto;
+            z-index: 1000; /* Higher z-index to ensure it's on top */
+        }
+        
+        .song-list {
             position: absolute;
             top: 220px;
             right: 50px;
@@ -76,7 +113,7 @@
         
     }
    
-        .song-list-TopListens {
+    .song-list-TopListens {
             color: #ffcc99; /* Light orange text color */
         background-color: #6666ff; /* Light blue background color */
         border: 5px solid #00cc99; /* Green border */
@@ -96,9 +133,8 @@
         border: 5px solid  #006400; /* Dark red border */
         overflow-y: auto; 
         
-            padding-top: 150px;
-            max-width: 375px;
-            max-height: 400px
+        padding-top: 15px;
+        padding-top: 150px;
     }
 </style>
 
@@ -133,16 +169,20 @@
 </head>
 
 <body>
+    <img id="spotify-logo" src="{{ url_for('static', filename='spotify_logo.png') }}" alt="Spotify Logo">
     <h1>Hey, Welcome to Spotify Wrapped Plus!<br>Here are some of your top mentions</h1>
 
     <button class="tablink" onclick="openPage('Top_Artists', this, 'red')">Top Artists</button>
     <button class="tablink" onclick="openPage('Top_Tracks', this, 'green')" id="defaultOpen">Top Tracks</button>
-    <button class="tablink" onclick="openPage('Top_Listens', this, 'purple')">Top Listens</button>
+    <button class="tablink" onclick="openPage('Top_Listens', this, '#8203DF')">Top Listens</button>
     <button class="tablink" onclick="openPage('Top_Albums', this, 'orange')">Top Albums</button>
 
     <div id="Top_Artists" class="tabcontent">
-        <h3>Top Artists</h3>
-        <p>Top Artists is where the heart is..</p>
+            <img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
+    </div>
+
+    <div id="Top_Tracks" class="tabcontent">
+        <<img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
         <div class="song-list song-list-TopArtist">
             Recommended Songs
             Imagine Dragons
@@ -197,8 +237,6 @@
     </div>
 
     <div id="Top_Tracks" class="tabcontent">
-        <h3>Top Tracks</h3>
-        <p>Some Top Tracks this fine day!</p>
         <div class="song-list song-list-TopTracks">
             Recommended Songs
             1. Royal Blood - "Out of the Black"
@@ -236,7 +274,6 @@
     </div>
 
     <div id="Top_Listens" class="tabcontent">
-        <h3>Top Listens</h3>
         {{ graph_html | safe }}
         <div class="song-list song-list-TopListens">
             Recommended Songs
@@ -267,8 +304,7 @@
     </div>
 
     <div id="Top_Albums" class="tabcontent">
-        <h3>Top Albums</h3>
-        <p>Who we are and what we do.</p>
+        <img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
         <div class="song-list song-list-TopAlbums">
             Recommended Albums
             - Paramore - After Laughter
