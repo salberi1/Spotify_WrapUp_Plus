@@ -368,13 +368,11 @@ class ProcessSpotifyData():
         self.data_frames_dict['followed_artists'] = followed_artists_df
     
 if __name__ == "__main__":
-    # spotify_auth = SpotifyAuthentication()
+    spotify_auth = SpotifyAuthentication()
     
-    # auth_instance, response_url = spotify_auth.initiate_authentication()
-    # sp = spotify_auth.authenticate(response_url=response_url)
+    auth_instance, response_url = spotify_auth.initiate_authentication()
+    sp = spotify_auth.authenticate(response_url=response_url)
     
-    # spotify_data = ProcessSpotifyData(sp=sp)
-    # spotify_data.get_data()
-    print("hello")
+    spotify_data = ProcessSpotifyData(sp=sp)
+    spotify_data.get_data()
     
-print("hello2")

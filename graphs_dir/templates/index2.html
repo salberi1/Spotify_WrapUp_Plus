@@ -132,7 +132,7 @@
         background-color: #FFFFE0; /* Cyan background color */
         border: 5px solid  #006400; /* Dark red border */
         overflow-y: auto; 
-        
+        max-width:   375px;
         padding-top: 15px;
         padding-top: 150px;
     }
@@ -178,7 +178,61 @@
     <button class="tablink" onclick="openPage('Top_Albums', this, 'orange')">Top Albums</button>
 
     <div id="Top_Artists" class="tabcontent">
-            <img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
+        <img src="{{ url_for('static', filename='black_cloud.png') }}" alt="Black Cloud" class="rotating-image">
+        <h3>Top Artists</h3>
+        <p>Top Artists is where the heart is..</p>
+                <div class="song-list song-list-TopArtist">
+                    Recommended Songs
+                    Imagine Dragons
+                    Sleeping With Sirens
+                    PVRIS
+                    Weezer
+                    Coldplay
+                    Of Monsters and Men
+                    The Neighbourhood
+                    Mumford & Sons
+                    Kings of Leon
+                    Arctic Monkeys
+                    Lana Del Rey
+                    Maggie Rogers
+                    Lewis Capaldi
+                    James Bay
+                    LANY
+                    Foster the People
+                    The 1975
+                    Joy Division
+                    Eden
+                    CHVRCHES
+                    Blackbear
+                    Years & Years
+                    Alt-J
+                    Walk The Moon
+                    The Fray
+                    The Lumineers
+                    Julia Michaels
+                    Sigrid
+                    Twin Atlantic
+                    Silversun Pickups
+                    Machine Gun Kelly
+                    The Band CAMINO
+                    Nothing But Thieves
+                    Rex Orange County
+                    SZA
+                    Glass Animals
+                    YUNGBLUD
+                    Tove Lo
+                    Saint Motel
+                    Alessia Cara
+                    Bebe Rexha
+                    Plain White T's
+                    Beartooth
+                    Sum 41
+                    Yellowcard
+                    New Found Glory
+                    Coheed and Cambria
+                    The Wonder Years
+                    Brand New </div>
+           
     </div>
 
     <div id="Top_Tracks" class="tabcontent">

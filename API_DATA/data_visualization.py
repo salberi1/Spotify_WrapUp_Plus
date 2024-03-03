@@ -16,7 +16,7 @@ class DataVisualization:
         self.top_tracks_long_path = './data_csvs/top_tracks_long.csv'
         self.top_tracks_medium_path = './data_csvs/top_tracks_medium.csv'
         self.top_tracks_short_path = './data_csvs/top_tracks_short.csv'
-        self.graphs_dir = '/Users/spencerpresley/HenHacks/Spotify_WrapUp_Plus/graphs_dir'
+        self.graphs_dir = './'
         
     def followed_artists_visualization(self):
         df = pd.read_csv(self.followed_artist_path)
