@@ -2,6 +2,7 @@ import plotly.express as px
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
+import os
 
 class DataVisualization:
     def __init__(self):
@@ -15,6 +16,7 @@ class DataVisualization:
         self.top_tracks_long_path = './data_csvs/top_tracks_long.csv'
         self.top_tracks_medium_path = './data_csvs/top_tracks_medium.csv'
         self.top_tracks_short_path = './data_csvs/top_tracks_short.csv'
+        self.graphs_dir = '/Users/spencerpresley/HenHacks/Spotify_WrapUp_Plus/graphs_dir'
         
     def followed_artists_visualization(self):
         df = pd.read_csv(self.followed_artist_path)
@@ -58,6 +60,7 @@ class DataVisualization:
         )
         
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "followed_artists_visualization.html"))
         
     def playlists_visualization(self):
         df = pd.read_csv(self.playlists_path)
@@ -90,6 +93,7 @@ class DataVisualization:
 
         # Display the figure
         fig.show()        
+        fig.write_html(os.path.join(self.graphs_dir, "playlists_visualization.html"))
         
     def playlist_recent_top_track_overlap(self):
         recent_df = pd.read_csv(self.recently_played_path)
@@ -137,6 +141,7 @@ class DataVisualization:
 
         # Show the plot
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "playlists_recent_top_tracks.html"))
 
 
         
@@ -203,6 +208,7 @@ class DataVisualization:
 
         # Show the plot
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "top_artists.html"))
 
     def play_times_distribution_visualization(self):
         df = pd.read_csv(self.recently_played_path)
@@ -252,6 +258,7 @@ class DataVisualization:
 
         # Show the plot
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "play_time_distribution.html"))
         
     def listening_trends_over_time(self):
         df = pd.read_csv(self.saved_tracks_path)
@@ -289,6 +296,8 @@ class DataVisualization:
         fig.update_xaxes(title_text='Year', gridcolor='rgba(80,80,80,0.5)')
         fig.update_yaxes(title_text='Number of Tracks Saved', gridcolor='rgba(80,80,80,0.5)')
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "listening_trends.html"))
+
        
     def recently_played_visualization(self):
         # Load the recently played data
@@ -318,6 +327,8 @@ class DataVisualization:
                           yaxis=dict(showgrid=True, gridwidth=1, gridcolor='rgba(255,255,255,0.5)')) # White grid lines for y-axis
 
         fig.show()
+        fig.write_html(os.path.join(self.graphs_dir, "recently_played.html"))
+        
 if __name__ == "__main__":
     data_vis = DataVisualization()
     data_vis.followed_artists_visualization()
