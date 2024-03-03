@@ -4,3 +4,6 @@ pandas
 plotly
 seaborn
 matplotlib
+Django
+requests
+kaleido
