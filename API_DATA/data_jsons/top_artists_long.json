@@ -18,3 +18,520 @@
 {"Term":"long_term","Artist":"Sabrina Carpenter","Genres":"pop","Popularity":80}
 {"Term":"long_term","Artist":"Gary Clark Jr.","Genres":"electric blues, modern blues rock, rock, soul blues, texas blues","Popularity":56}
 {"Term":"long_term","Artist":"Kendrick Lamar","Genres":"conscious hip hop, hip hop, rap, west coast rap","Popularity":88}
+{"Term":"long_term","Artist":"Harry Styles","Genres":"pop","Popularity":84}
+{"Term":"long_term","Artist":"Tate McRae","Genres":"alt z, pop","Popularity":86}
+{"Term":"long_term","Artist":"Sara Bareilles","Genres":"acoustic pop, ectofolk, lilith, neo mellow, pop rock, post-teen pop, viral pop","Popularity":64}
+{"Term":"long_term","Artist":"Arctic Monkeys","Genres":"garage rock, modern rock, permanent wave, rock, sheffield indie","Popularity":86}
+{"Term":"long_term","Artist":"Paramore","Genres":"candy pop, modern rock, pixie, pop, pop emo, pop punk, rock","Popularity":77}
+{"Term":"long_term","Artist":"Shawn Mendes","Genres":"canadian pop, pop, viral pop","Popularity":82}
+{"Term":"long_term","Artist":"Maroon 5","Genres":"pop","Popularity":85}
+{"Term":"long_term","Artist":"Kanye West","Genres":"chicago rap, hip hop, rap","Popularity":95}
+{"Term":"long_term","Artist":"Ed Sheeran","Genres":"pop, singer-songwriter pop, uk pop","Popularity":87}
+{"Term":"long_term","Artist":"Dance Gavin Dance","Genres":"pixie, sacramento indie, screamo, swancore","Popularity":62}
+{"Term":"long_term","Artist":"Joshua Bassett","Genres":"singer-songwriter pop","Popularity":58}
+{"Term":"long_term","Artist":"Joey Landreth","Genres":"canadian folk, manitoba indie","Popularity":26}
+{"Term":"long_term","Artist":"Conan Gray","Genres":"bedroom pop, pop, pov: indie","Popularity":79}
+{"Term":"long_term","Artist":"Bad Omens","Genres":"american metalcore","Popularity":73}
+{"Term":"long_term","Artist":"Sam Smith","Genres":"pop, uk pop","Popularity":83}
+{"Term":"long_term","Artist":"Ariana Grande","Genres":"pop","Popularity":89}
+{"Term":"long_term","Artist":"Dua Lipa","Genres":"dance pop, pop, uk pop","Popularity":88}
+{"Term":"long_term","Artist":"Bastille","Genres":"metropopolis, modern rock, pop","Popularity":75}
+{"Term":"long_term","Artist":"Cory Wong","Genres":"instrumental funk","Popularity":54}
+{"Term":"long_term","Artist":"SZA","Genres":"pop, r&b, rap","Popularity":90}
+{"Term":"long_term","Artist":"Charli Adams","Genres":"nashville singer-songwriter","Popularity":34}
+{"Term":"long_term","Artist":"James Bay","Genres":"neo mellow, pop, uk pop","Popularity":69}
+{"Term":"long_term","Artist":"Nickelback","Genres":"alternative metal, canadian rock, post-grunge","Popularity":76}
+{"Term":"long_term","Artist":"Greta Van Fleet","Genres":"modern blues rock, modern hard rock, rock","Popularity":66}
+{"Term":"long_term","Artist":"Eagles","Genres":"album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock","Popularity":75}
+{"Term":"long_term","Artist":"Justin Bieber","Genres":"canadian pop, pop","Popularity":89}
+{"Term":"long_term","Artist":"Doja Cat","Genres":"dance pop, pop","Popularity":87}
+{"Term":"long_term","Artist":"The Killers","Genres":"alternative rock, dance rock, modern rock, permanent wave, rock","Popularity":77}
+{"Term":"long_term","Artist":"Jukebox The Ghost","Genres":"modern rock, piano rock, pov: indie","Popularity":49}
+{"Term":"long_term","Artist":"Bazzi","Genres":"pop","Popularity":69}
+{"Term":"long_term","Artist":"Ruel","Genres":"alt z, australian alternative pop, pop","Popularity":63}
+{"Term":"long_term","Artist":"SUGR?","Genres":"","Popularity":35}
+{"Term":"long_term","Artist":"Halsey","Genres":"electropop, etherpop, indie poptimism, pop","Popularity":80}
+{"Term":"long_term","Artist":"Cam","Genres":"contemporary country, modern country rock","Popularity":51}
+{"Term":"long_term","Artist":"J. Cole","Genres":"conscious hip hop, hip hop, north carolina hip hop, rap","Popularity":86}
+{"Term":"long_term","Artist":"The Black Crowes","Genres":"album rock, blues rock, classic rock, electric blues, hard rock, heartland rock, jam band, rock, southern rock","Popularity":60}
+{"Term":"long_term","Artist":"Gavin DeGraw","Genres":"neo mellow, pop rock","Popularity":60}
+{"Term":"long_term","Artist":"Post Malone","Genres":"dfw rap, melodic rap, pop, rap","Popularity":87}
+{"Term":"long_term","Artist":"Coldplay","Genres":"permanent wave, pop","Popularity":87}
+{"Term":"long_term","Artist":"Death Cab for Cutie","Genres":"alternative rock, canadian indie, chamber pop, indie rock, indietronica, modern rock, seattle indie, washington indie","Popularity":62}
+{"Term":"long_term","Artist":"The Snuts","Genres":"britpop revival, scottish indie rock","Popularity":54}
+{"Term":"long_term","Artist":"Green Day","Genres":"modern rock, permanent wave, punk, rock","Popularity":80}
+{"Term":"long_term","Artist":"The Academic","Genres":"irish indie","Popularity":47}
+{"Term":"long_term","Artist":"Rihanna","Genres":"barbadian pop, pop, urban contemporary","Popularity":90}
+{"Term":"long_term","Artist":"The 1975","Genres":"modern alternative rock, modern rock, pop, pov: indie, rock","Popularity":76}
+{"Term":"long_term","Artist":"21 Savage","Genres":"atl hip hop, hip hop, rap","Popularity":92}
+{"Term":"long_term","Artist":"Panic! At The Disco","Genres":"modern rock, pop","Popularity":77}
+{"Term":"long_term","Artist":"Lizzo","Genres":"escape room, minnesota hip hop, pop, trap queen","Popularity":71}
+{"Term":"long_term","Artist":"OneRepublic","Genres":"piano rock, pop","Popularity":82}
+{"Term":"long_term","Artist":"Adele","Genres":"british soul, pop, pop soul, uk pop","Popularity":85}
+{"Term":"long_term","Artist":"Tonight Alive","Genres":"candy pop, pixie, pop emo, pop punk","Popularity":47}
+{"Term":"long_term","Artist":"Ashnikko","Genres":"alt z, escape room","Popularity":68}
+{"Term":"long_term","Artist":"Hunter Hayes","Genres":"contemporary country, country, country road, modern country rock","Popularity":55}
+{"Term":"long_term","Artist":"Stevie Wonder","Genres":"motown, soul","Popularity":75}
+{"Term":"long_term","Artist":"Red Hot Chili Peppers","Genres":"alternative rock, funk metal, funk rock, permanent wave, rock","Popularity":82}
+{"Term":"long_term","Artist":"Khalid","Genres":"pop, pop r&b","Popularity":82}
+{"Term":"long_term","Artist":"Alessia Cara","Genres":"canadian contemporary r&b, canadian pop, pop","Popularity":72}
+{"Term":"long_term","Artist":"Ben Rector","Genres":"acoustic pop, indiecoustica, lds youth, neo mellow, piano rock","Popularity":58}
+{"Term":"long_term","Artist":"Em Beihold","Genres":"alt z, gen z singer-songwriter","Popularity":72}
+{"Term":"long_term","Artist":"Elvis Presley","Genres":"rock-and-roll, rockabilly","Popularity":77}
+{"Term":"long_term","Artist":"B\u00d8RNS","Genres":"indie poptimism, modern alternative rock, modern rock, pov: indie","Popularity":67}
+{"Term":"long_term","Artist":"The Struts","Genres":"glam rock, modern alternative rock","Popularity":59}
+{"Term":"long_term","Artist":"Bruno Mars","Genres":"dance pop, pop","Popularity":88}
+{"Term":"long_term","Artist":"The Kid LAROI","Genres":"australian hip hop","Popularity":79}
+{"Term":"long_term","Artist":"H.E.R.","Genres":"r&b, rap","Popularity":75}
+{"Term":"long_term","Artist":"Elton John","Genres":"glam rock, mellow gold, piano rock, rock","Popularity":82}
+{"Term":"long_term","Artist":"Zella Day","Genres":"alt z, electropop, gauze pop, indie poptimism","Popularity":54}
+{"Term":"long_term","Artist":"Creed","Genres":"alternative metal, nu metal, post-grunge","Popularity":70}
+{"Term":"long_term","Artist":"FLETCHER","Genres":"alt z, pop","Popularity":64}
+{"Term":"long_term","Artist":"Bob Marley & The Wailers","Genres":"reggae, roots reggae","Popularity":82}
+{"Term":"long_term","Artist":"M\u00f6tley Cr\u00fce","Genres":"album rock, alternative metal, glam metal, hard rock, metal, rock, sleaze rock","Popularity":70}
+{"Term":"long_term","Artist":"Styx","Genres":"album rock, classic rock, glam metal, hard rock, mellow gold, progressive rock, rock, soft rock","Popularity":61}
+{"Term":"long_term","Artist":"Jason Mraz","Genres":"acoustic pop, dance pop, neo mellow, pop","Popularity":72}
+{"Term":"long_term","Artist":"Niall Horan","Genres":"pop","Popularity":76}
+{"Term":"long_term","Artist":"One Direction","Genres":"boy band, pop, post-teen pop, talent show","Popularity":83}
+{"Term":"long_term","Artist":"vaultboy","Genres":"singer-songwriter pop","Popularity":61}
+{"Term":"long_term","Artist":"Pierce The Veil","Genres":"modern rock, pop punk, screamo","Popularity":72}
+{"Term":"long_term","Artist":"Two Door Cinema Club","Genres":"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie","Popularity":68}
+{"Term":"long_term","Artist":"Cage The Elephant","Genres":"modern alternative rock, modern rock, pov: indie, punk blues, rock","Popularity":73}
+{"Term":"long_term","Artist":"Lady A","Genres":"contemporary country, country, country dawn, country pop, country road","Popularity":66}
+{"Term":"long_term","Artist":"Fall Out Boy","Genres":"emo, modern rock, pop, rock","Popularity":79}
+{"Term":"long_term","Artist":"Lukas Graham","Genres":"danish pop, scandipop","Popularity":70}
+{"Term":"long_term","Artist":"Lil Nas X","Genres":"lgbtq+ hip hop","Popularity":76}
+{"Term":"long_term","Artist":"Michael Jackson","Genres":"r&b, soul","Popularity":82}
+{"Term":"long_term","Artist":"JP Saxe","Genres":"alt z, canadian contemporary r&b, singer-songwriter pop","Popularity":65}
+{"Term":"long_term","Artist":"Billy Joel","Genres":"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock","Popularity":77}
+{"Term":"long_term","Artist":"KALEO","Genres":"icelandic indie, icelandic rock, modern alternative rock","Popularity":69}
+{"Term":"long_term","Artist":"Mt. Joy","Genres":"stomp and holler","Popularity":69}
+{"Term":"long_term","Artist":"The Beatles","Genres":"british invasion, classic rock, merseybeat, psychedelic rock, rock","Popularity":84}
+{"Term":"long_term","Artist":"Neon Trees","Genres":"modern rock, neo mellow, pop rock, pov: indie","Popularity":65}
+{"Term":"long_term","Artist":"Scott Bradlee's Postmodern Jukebox","Genres":"jazz cover, swing","Popularity":59}
+{"Term":"long_term","Artist":"Michael Bubl\u00e9","Genres":"adult standards, canadian pop, jazz pop, lounge","Popularity":75}
+{"Term":"long_term","Artist":"The All-American Rejects","Genres":"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge","Popularity":66}
+{"Term":"long_term","Artist":"Led Zeppelin","Genres":"album rock, classic rock, hard rock, rock","Popularity":75}
+{"Term":"long_term","Artist":"boygenius","Genres":"indie pop","Popularity":70}
+{"Term":"long_term","Artist":"Rene\u00e9 Rapp","Genres":"alt z, singer-songwriter pop","Popularity":75}
+{"Term":"long_term","Artist":"Daughtry","Genres":"alternative metal, neo mellow, pop rock, post-grunge","Popularity":64}
+{"Term":"long_term","Artist":"Jimi Hendrix","Genres":"acid rock, album rock, alternative rock, classic rock, hard rock, proto-metal, psychedelic rock, rock","Popularity":69}
+{"Term":"long_term","Artist":"U2","Genres":"irish rock, permanent wave, rock","Popularity":77}
+{"Term":"long_term","Artist":"Troye Sivan","Genres":"australian pop, pop, viral pop","Popularity":78}
+{"Term":"long_term","Artist":"Marshmello","Genres":"brostep, edm, pop, progressive electro house","Popularity":84}
+{"Term":"long_term","Artist":"Jonas Brothers","Genres":"boy band, pop","Popularity":75}
+{"Term":"long_term","Artist":"PJ Harding","Genres":"australian singer-songwriter","Popularity":51}
+{"Term":"long_term","Artist":"Abby Holliday","Genres":"modern indie folk","Popularity":32}
+{"Term":"long_term","Artist":"Cardinal Black","Genres":"backing track","Popularity":27}
+{"Term":"long_term","Artist":"Katy Perry","Genres":"pop","Popularity":84}
+{"Term":"long_term","Artist":"Bowling For Soup","Genres":"neon pop punk, pop punk, pop rock, texas pop punk","Popularity":60}
+{"Term":"long_term","Artist":"Stevie Ray Vaughan","Genres":"album rock, blues, blues rock, classic rock, electric blues, hard rock, heartland rock, instrumental rock, rock, texas blues","Popularity":61}
+{"Term":"long_term","Artist":"John Legend","Genres":"neo soul, pop, pop soul, urban contemporary","Popularity":75}
+{"Term":"long_term","Artist":"Creedence Clearwater Revival","Genres":"album rock, classic rock, country rock, rock, southern rock, swamp rock","Popularity":80}
+{"Term":"long_term","Artist":"Rascal Flatts","Genres":"contemporary country, country, country road","Popularity":68}
+{"Term":"long_term","Artist":"Carrie Underwood","Genres":"classic oklahoma country, contemporary country, country, country dawn, dance pop, pop","Popularity":69}
+{"Term":"long_term","Artist":"Marvin Gaye","Genres":"classic soul, motown, neo soul, northern soul, quiet storm, soul","Popularity":73}
+{"Term":"long_term","Artist":"Imagine Dragons","Genres":"modern rock, pop, rock","Popularity":86}
+{"Term":"long_term","Artist":"Justin Timberlake","Genres":"dance pop, pop","Popularity":82}
+{"Term":"long_term","Artist":"Daya","Genres":"alt z, pop","Popularity":68}
+{"Term":"long_term","Artist":"Journey","Genres":"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock","Popularity":73}
+{"Term":"long_term","Artist":"Maddie & Tae","Genres":"contemporary country, country, country road","Popularity":60}
+{"Term":"long_term","Artist":"White Noise Radiance","Genres":"shush","Popularity":79}
+{"Term":"long_term","Artist":"COIN","Genres":"pov: indie","Popularity":60}
+{"Term":"long_term","Artist":"Rush","Genres":"album rock, canadian metal, classic canadian rock, classic rock, hard rock, progressive rock, rock","Popularity":65}
+{"Term":"long_term","Artist":"Fleetwood Mac","Genres":"album rock, classic rock, rock, soft rock, yacht rock","Popularity":81}
+{"Term":"long_term","Artist":"Hugh Jackman","Genres":"hollywood, show tunes","Popularity":66}
+{"Term":"long_term","Artist":"Foreigner","Genres":"album rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, rock, soft rock","Popularity":69}
+{"Term":"long_term","Artist":"The Bros. Landreth","Genres":"canadian folk","Popularity":33}
+{"Term":"long_term","Artist":"Jimmy Buffett","Genres":"trop rock","Popularity":66}
+{"Term":"long_term","Artist":"Daryl Hall & John Oates","Genres":"album rock, classic rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock","Popularity":73}
+{"Term":"long_term","Artist":"Matchbox Twenty","Genres":"neo mellow, pop rock, post-grunge","Popularity":67}
+{"Term":"long_term","Artist":"Haley Joelle","Genres":"alt z, gen z singer-songwriter","Popularity":53}
+{"Term":"long_term","Artist":"JAY-Z","Genres":"east coast hip hop, gangster rap, hip hop, pop rap, rap","Popularity":83}
+{"Term":"long_term","Artist":"Van Halen","Genres":"album rock, classic rock, hard rock, rock","Popularity":71}
+{"Term":"long_term","Artist":"Alexander 23","Genres":"alt z, singer-songwriter pop","Popularity":60}
+{"Term":"long_term","Artist":"Linkin Park","Genres":"alternative metal, nu metal, post-grunge, rap metal, rock","Popularity":85}
+{"Term":"long_term","Artist":"Eric Hutchinson","Genres":"acoustic pop, neo mellow","Popularity":45}
+{"Term":"long_term","Artist":"Jodi Benson","Genres":"movie tunes","Popularity":52}
+{"Term":"long_term","Artist":"Frank Ocean","Genres":"lgbtq+ hip hop, neo soul","Popularity":84}
+{"Term":"long_term","Artist":"B.B. King","Genres":"blues, blues rock, classic rock, electric blues, jazz blues, soul blues, traditional blues","Popularity":60}
+{"Term":"long_term","Artist":"Sing Street","Genres":"","Popularity":40}
+{"Term":"long_term","Artist":"Matt Maeson","Genres":"pov: indie","Popularity":62}
+{"Term":"long_term","Artist":"Joyce Manor","Genres":"alternative emo, dreamo, emo, indie punk, lo-fi emo","Popularity":53}
+{"Term":"long_term","Artist":"John Williams","Genres":"orchestral soundtrack, soundtrack","Popularity":71}
+{"Term":"long_term","Artist":"The Red Jumpsuit Apparatus","Genres":"alternative metal, neon pop punk, pop punk, post-grunge, screamo","Popularity":63}
+{"Term":"long_term","Artist":"Boston","Genres":"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock","Popularity":65}
+{"Term":"long_term","Artist":"JVKE","Genres":"modern indie pop, pov: indie, singer-songwriter pop","Popularity":76}
+{"Term":"long_term","Artist":"Surfaces","Genres":"bedroom soul","Popularity":64}
+{"Term":"long_term","Artist":"Sia","Genres":"australian dance, australian pop, pop","Popularity":83}
+{"Term":"long_term","Artist":"James Arthur","Genres":"pop, talent show, uk pop","Popularity":81}
+{"Term":"long_term","Artist":"Nirvana","Genres":"grunge, permanent wave, rock","Popularity":81}
+{"Term":"long_term","Artist":"Lizzy McAlpine","Genres":"alt z, boston folk, indie pop, singer-songwriter pop","Popularity":72}
+{"Term":"long_term","Artist":"Ingrid Michaelson","Genres":"acoustic pop, ectofolk, lilith, neo mellow","Popularity":58}
+{"Term":"long_term","Artist":"Demi Lovato","Genres":"pop, post-teen pop","Popularity":77}
+{"Term":"long_term","Artist":"Chet Baker","Genres":"cool jazz, jazz, jazz trumpet, vocal jazz","Popularity":65}
+{"Term":"long_term","Artist":"Charlie Puth","Genres":"pop, viral pop","Popularity":80}
+{"Term":"long_term","Artist":"blink-182","Genres":"alternative metal, modern rock, pop punk, punk, rock, socal pop punk","Popularity":78}
+{"Term":"long_term","Artist":"Zh\u00e9 Aqueen","Genres":"","Popularity":0}
+{"Term":"long_term","Artist":"Lorde","Genres":"art pop, metropopolis, nz pop, pop","Popularity":75}
+{"Term":"long_term","Artist":"Wallows","Genres":"pov: indie","Popularity":69}
+{"Term":"long_term","Artist":"Hannah Montana","Genres":"pop, post-teen pop","Popularity":62}
+{"Term":"long_term","Artist":"Wild Rivers","Genres":"folk-pop","Popularity":64}
+{"Term":"long_term","Artist":"The Chainsmokers","Genres":"pop","Popularity":79}
+{"Term":"long_term","Artist":"Aerosmith","Genres":"album rock, classic rock, hard rock, rock","Popularity":75}
+{"Term":"long_term","Artist":"Daniel Donato","Genres":"jam band, nashville americana","Popularity":35}
+{"Term":"long_term","Artist":"Muse","Genres":"alternative rock, modern rock, permanent wave, rock","Popularity":74}
+{"Term":"long_term","Artist":"Gavin James","Genres":"irish pop","Popularity":58}
+{"Term":"long_term","Artist":"Otis Redding","Genres":"classic soul, memphis soul, soul, soul blues, southern soul, vocal jazz","Popularity":70}
+{"Term":"long_term","Artist":"Train","Genres":"dance pop, neo mellow, pop, pop rock","Popularity":72}
+{"Term":"long_term","Artist":"The Neighbourhood","Genres":"modern alternative rock, modern rock, pop","Popularity":83}
+{"Term":"long_term","Artist":"Phillip Phillips","Genres":"folk-pop, neo mellow, pop rock","Popularity":61}
+{"Term":"long_term","Artist":"Corella","Genres":"english indie rock, manchester indie","Popularity":49}
+{"Term":"long_term","Artist":"Dr. Dre","Genres":"g funk, gangster rap, hip hop, rap, west coast rap","Popularity":79}
+{"Term":"long_term","Artist":"Kid Cudi","Genres":"hip hop, ohio hip hop, pop rap, rap","Popularity":81}
+{"Term":"long_term","Artist":"Charli XCX","Genres":"art pop, candy pop, metropopolis, pop, uk pop","Popularity":74}
+{"Term":"long_term","Artist":"GAYLE","Genres":"modern alternative pop","Popularity":63}
+{"Term":"long_term","Artist":"Justin Hurwitz","Genres":"hollywood, movie tunes","Popularity":63}
+{"Term":"long_term","Artist":"Better Oblivion Community Center","Genres":"indie pop, indie rock","Popularity":43}
+{"Term":"long_term","Artist":"Allman Brothers Band","Genres":"album rock, blues rock, classic rock, country rock, electric blues, folk rock, hard rock, heartland rock, jam band, mellow gold, rock, singer-songwriter, soft rock, southern rock","Popularity":62}
+{"Term":"long_term","Artist":"RAYE","Genres":"uk contemporary r&b, uk pop","Popularity":78}
+{"Term":"long_term","Artist":"Shinedown","Genres":"alternative metal, nu metal, post-grunge","Popularity":70}
+{"Term":"long_term","Artist":"Robben Ford","Genres":"blues, electric blues, jazz blues, jazz fusion, modern blues, soul blues","Popularity":39}
+{"Term":"long_term","Artist":"Maren Morris","Genres":"classic texas country, contemporary country","Popularity":69}
+{"Term":"long_term","Artist":"Beyonc\u00e9","Genres":"pop, r&b","Popularity":87}
+{"Term":"long_term","Artist":"A Day To Remember","Genres":"alternative metal, metalcore, neon pop punk, pop punk, screamo","Popularity":68}
+{"Term":"long_term","Artist":"Calvin Harris","Genres":"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance","Popularity":85}
+{"Term":"long_term","Artist":"Nat King Cole","Genres":"adult standards, lounge, soul, swing, vocal jazz","Popularity":70}
+{"Term":"long_term","Artist":"Frank Sinatra","Genres":"adult standards, easy listening, lounge","Popularity":77}
+{"Term":"long_term","Artist":"Lil Wayne","Genres":"hip hop, new orleans rap, pop rap, rap, trap","Popularity":85}
+{"Term":"long_term","Artist":"Yellowcard","Genres":"alternative metal, pop punk, post-grunge, socal pop punk","Popularity":62}
+{"Term":"long_term","Artist":"LP","Genres":"la pop, women's music","Popularity":66}
+{"Term":"long_term","Artist":"Etta James","Genres":"jazz blues, soul, soul blues, torch song, vocal jazz","Popularity":69}
+{"Term":"long_term","Artist":"Sadie Hawkins","Genres":"","Popularity":17}
+{"Term":"long_term","Artist":"Ella Fitzgerald","Genres":"adult standards, jazz, jazz blues, soul, swing, vocal jazz","Popularity":67}
+{"Term":"long_term","Artist":"Alan Menken","Genres":"broadway, movie tunes, orchestral soundtrack","Popularity":60}
+{"Term":"long_term","Artist":"Twenty One Pilots","Genres":"modern rock, pop, pov: indie, rock","Popularity":80}
+{"Term":"long_term","Artist":"Jessie Murph","Genres":"modern country pop, singer-songwriter pop","Popularity":72}
+{"Term":"long_term","Artist":"Alicia Keys","Genres":"neo soul, pop, r&b","Popularity":78}
+{"Term":"long_term","Artist":"Lea Salonga","Genres":"movie tunes, tagalog worship","Popularity":58}
+{"Term":"long_term","Artist":"Dolly Parton","Genres":"classic country pop, country, country dawn","Popularity":72}
+{"Term":"long_term","Artist":"Miguel","Genres":"r&b, urban contemporary","Popularity":78}
+{"Term":"long_term","Artist":"The Script","Genres":"celtic rock, pop","Popularity":73}
+{"Term":"long_term","Artist":"Mokita","Genres":"chill pop, singer-songwriter pop","Popularity":57}
+{"Term":"long_term","Artist":"P!nk","Genres":"dance pop, pop","Popularity":80}
+{"Term":"long_term","Artist":"Jack Harlow","Genres":"deep underground hip hop, kentucky hip hop, pop rap, rap","Popularity":83}
+{"Term":"long_term","Artist":"Noah Kahan","Genres":"pov: indie","Popularity":87}
+{"Term":"long_term","Artist":"Lauren Weintraub","Genres":"alt z, gen z singer-songwriter","Popularity":40}
+{"Term":"long_term","Artist":"The xx","Genres":"downtempo, dream pop, indietronica","Popularity":66}
+{"Term":"long_term","Artist":"Doyle Bramhall II","Genres":"electric blues, modern blues, modern blues rock","Popularity":30}
+{"Term":"long_term","Artist":"DNCE","Genres":"dance pop, pop","Popularity":68}
+{"Term":"long_term","Artist":"The Backseat Lovers","Genres":"pov: indie, slc indie","Popularity":66}
+{"Term":"long_term","Artist":"Stephen Sanchez","Genres":"gen z singer-songwriter","Popularity":77}
+{"Term":"long_term","Artist":"Samuel E. Wright","Genres":"movie tunes","Popularity":54}
+{"Term":"long_term","Artist":"Lady Gaga","Genres":"art pop, dance pop, pop","Popularity":84}
+{"Term":"long_term","Artist":"Gunna","Genres":"atl hip hop, melodic rap, rap, trap","Popularity":84}
+{"Term":"long_term","Artist":"Penelope Scott","Genres":"alt z, modern indie pop, pov: indie","Popularity":61}
+{"Term":"long_term","Artist":"Art Ellefson & Jazz Modus","Genres":"","Popularity":0}
+{"Term":"long_term","Artist":"Of Monsters and Men","Genres":"folk-pop, metropopolis, modern rock, stomp and holler","Popularity":67}
+{"Term":"long_term","Artist":"THE DRIVER ERA","Genres":"modern alternative rock","Popularity":56}
+{"Term":"long_term","Artist":"Abigail Osborn","Genres":"","Popularity":34}
+{"Term":"long_term","Artist":"Kesha","Genres":"dance pop, pop","Popularity":77}
+{"Term":"long_term","Artist":"Ryan Gosling","Genres":"hollywood","Popularity":61}
+{"Term":"long_term","Artist":"Childish Gambino","Genres":"atl hip hop, hip hop, rap","Popularity":79}
+{"Term":"long_term","Artist":"Vulfpeck","Genres":"ann arbor indie, funk rock, instrumental funk","Popularity":58}
+{"Term":"long_term","Artist":"Second Breakfast","Genres":"","Popularity":40}
+{"Term":"long_term","Artist":"benny blanco","Genres":"pop","Popularity":71}
+{"Term":"long_term","Artist":"Austin Hull","Genres":"dark r&b","Popularity":27}
+{"Term":"long_term","Artist":"Incomingon","Genres":"","Popularity":37}
+{"Term":"long_term","Artist":"Former Days","Genres":"","Popularity":38}
+{"Term":"long_term","Artist":"PROJECT FIXATE","Genres":"","Popularity":39}
+{"Term":"long_term","Artist":"ad harmony","Genres":"","Popularity":38}
+{"Term":"long_term","Artist":"Slipknot","Genres":"alternative metal, nu metal, rap metal, rock","Popularity":77}
+{"Term":"long_term","Artist":"Alan Silvestri","Genres":"orchestral soundtrack, soundtrack","Popularity":57}
+{"Term":"long_term","Artist":"Pink Floyd","Genres":"album rock, art rock, classic rock, progressive rock, psychedelic rock, rock, symphonic rock","Popularity":78}
+{"Term":"long_term","Artist":"MEDUZA","Genres":"edm, pop dance, pop house, uk dance","Popularity":75}
+{"Term":"long_term","Artist":"Zedd","Genres":"complextro, edm, german techno, pop, pop dance","Popularity":73}
+{"Term":"long_term","Artist":"The Cult","Genres":"album rock, hard rock, new wave, rock","Popularity":57}
+{"Term":"long_term","Artist":"Black Country Communion","Genres":"modern hard rock, supergroup","Popularity":35}
+{"Term":"long_term","Artist":"Vance Joy","Genres":"folk-pop, modern rock","Popularity":76}
+{"Term":"long_term","Artist":"Black Eyed Peas","Genres":"dance pop, pop, pop rap","Popularity":79}
+{"Term":"long_term","Artist":"Auli'i Cravalho","Genres":"movie tunes","Popularity":65}
+{"Term":"long_term","Artist":"Willie Nelson","Genres":"classic country pop, classic texas country, country, country rock, nashville sound, outlaw country, singer-songwriter","Popularity":70}
+{"Term":"long_term","Artist":"Taron Egerton","Genres":"hollywood","Popularity":61}
+{"Term":"long_term","Artist":"Kacey Musgraves","Genres":"classic texas country, contemporary country, country dawn","Popularity":77}
+{"Term":"long_term","Artist":"Sleeping With Sirens","Genres":"neon pop punk, pop emo, pop punk, screamo","Popularity":63}
+{"Term":"long_term","Artist":"Alan Jackson","Genres":"country","Popularity":71}
+{"Term":"long_term","Artist":"Bear's Den","Genres":"folk-pop, stomp and flutter, uk americana","Popularity":54}
+{"Term":"long_term","Artist":"Megan Thee Stallion","Genres":"houston rap, pop, r&b, rap, trap queen","Popularity":79}
+{"Term":"long_term","Artist":"Mark Ronson","Genres":"pop soul","Popularity":73}
+{"Term":"long_term","Artist":"Natalie Cole","Genres":"adult standards, disco, quiet storm, soul, vocal jazz","Popularity":62}
+{"Term":"long_term","Artist":"Eminem","Genres":"detroit hip hop, hip hop, rap","Popularity":90}
+{"Term":"long_term","Artist":"Kali Uchis","Genres":"colombian pop","Popularity":86}
+{"Term":"long_term","Artist":"Leon Bridges","Genres":"modern blues, neo soul, soul","Popularity":71}
+{"Term":"long_term","Artist":"Tommy Lefroy","Genres":"indie pop, modern indie folk","Popularity":47}
+{"Term":"long_term","Artist":"LANY","Genres":"la pop, opm","Popularity":72}
+{"Term":"long_term","Artist":"Mik","Genres":"anime lo-fi","Popularity":46}
+{"Term":"long_term","Artist":"Ben Howard","Genres":"british singer-songwriter, folk-pop, indie folk","Popularity":64}
+{"Term":"long_term","Artist":"Frankie Valli & The Four Seasons","Genres":"adult standards, bubblegum pop, doo-wop, lounge, northern soul, rock-and-roll, rockabilly","Popularity":62}
+{"Term":"long_term","Artist":"Frankie Valli","Genres":"adult standards, bubblegum pop, lounge, rock-and-roll","Popularity":63}
+{"Term":"long_term","Artist":"Kelly Clarkson","Genres":"dance pop, pop, talent show","Popularity":73}
+{"Term":"long_term","Artist":"Dayglow","Genres":"austindie, indie rock, pov: indie","Popularity":64}
+{"Term":"long_term","Artist":"Greyson Chance","Genres":"post-teen pop, viral pop","Popularity":48}
+{"Term":"long_term","Artist":"Current Joys","Genres":"lo-fi indie, pov: indie","Popularity":68}
+{"Term":"long_term","Artist":"Cigarettes After Sex","Genres":"ambient pop, dream pop, el paso indie, shoegaze","Popularity":82}
+{"Term":"long_term","Artist":"Tori Kelly","Genres":"pop, post-teen pop","Popularity":65}
+{"Term":"long_term","Artist":"Metro Boomin","Genres":"hip hop, rap","Popularity":88}
+{"Term":"long_term","Artist":"Dominic Fike","Genres":"alternative pop rock, pov: indie","Popularity":76}
+{"Term":"long_term","Artist":"Player One","Genres":"","Popularity":47}
+{"Term":"long_term","Artist":"I Luca","Genres":"","Popularity":34}
+{"Term":"long_term","Artist":"A Samurai In Tokyo","Genres":"","Popularity":44}
+{"Term":"long_term","Artist":"Jason Derulo","Genres":"dance pop, pop","Popularity":80}
+{"Term":"long_term","Artist":"Daft Punk","Genres":"electro, filter house, rock","Popularity":80}
+{"Term":"long_term","Artist":"Ambio","Genres":"","Popularity":37}
+{"Term":"long_term","Artist":"Laureline","Genres":"hopebeat, la pop","Popularity":20}
+{"Term":"long_term","Artist":"The Story So Far","Genres":"alternative emo, emo, pop punk","Popularity":57}
+{"Term":"long_term","Artist":"Glass Animals","Genres":"gauze pop, indietronica, modern rock, pov: indie, shiver pop","Popularity":74}
+{"Term":"long_term","Artist":"Colbie Caillat","Genres":"dance pop, neo mellow, pop","Popularity":67}
+{"Term":"long_term","Artist":"Zander Hawley","Genres":"","Popularity":29}
+{"Term":"long_term","Artist":"Florence + The Machine","Genres":"baroque pop, electropop, modern rock, uk alternative pop","Popularity":76}
+{"Term":"long_term","Artist":"Neutral Milk Hotel","Genres":"alternative rock, chamber pop, elephant 6, indie rock, lo-fi, noise pop","Popularity":56}
+{"Term":"long_term","Artist":"The Reytons","Genres":"english indie rock","Popularity":54}
+{"Term":"long_term","Artist":"Tove Lo","Genres":"dance pop, metropopolis, pop, swedish electropop, swedish pop, swedish synthpop","Popularity":72}
+{"Term":"long_term","Artist":"Aidan Bissett","Genres":"gen z singer-songwriter","Popularity":55}
+{"Term":"long_term","Artist":"Baby Keem","Genres":"hip hop, rap","Popularity":78}
+{"Term":"long_term","Artist":"Leela James","Genres":"neo soul, r&b, urban contemporary","Popularity":45}
+{"Term":"long_term","Artist":"Nick Jonas & The Administration","Genres":"post-teen pop","Popularity":29}
+{"Term":"long_term","Artist":"London Voices","Genres":"british choir","Popularity":41}
+{"Term":"long_term","Artist":"ABBA","Genres":"europop, swedish pop","Popularity":80}
+{"Term":"long_term","Artist":"Lebouth","Genres":"","Popularity":30}
+{"Term":"long_term","Artist":"The Revivalists","Genres":"modern alternative rock","Popularity":57}
+{"Term":"long_term","Artist":"Bad Suns","Genres":"la indie, modern alternative rock, modern rock, pov: indie","Popularity":55}
+{"Term":"long_term","Artist":"Julia Michaels","Genres":"pop","Popularity":73}
+{"Term":"long_term","Artist":"M\u00e5neskin","Genres":"indie rock italiano, italian pop","Popularity":79}
+{"Term":"long_term","Artist":"milk.","Genres":"","Popularity":40}
+{"Term":"long_term","Artist":"Kings of Leon","Genres":"modern rock, rock","Popularity":74}
+{"Term":"long_term","Artist":"Mariah Carey","Genres":"dance pop, pop, urban contemporary","Popularity":78}
+{"Term":"long_term","Artist":"Zeph","Genres":"gen z singer-songwriter","Popularity":63}
+{"Term":"long_term","Artist":"Foo Fighters","Genres":"alternative metal, alternative rock, modern rock, permanent wave, post-grunge, rock","Popularity":77}
+{"Term":"long_term","Artist":"Thirty Seconds To Mars","Genres":"modern rock, post-grunge","Popularity":69}
+{"Term":"long_term","Artist":"The Flaming Lips","Genres":"alternative rock, chamber pop, indie rock, indietronica, noise pop, okc indie, singer-songwriter","Popularity":54}
+{"Term":"long_term","Artist":"Chrisette Michele","Genres":"contemporary r&b, hip pop, neo soul, r&b, urban contemporary","Popularity":56}
+{"Term":"long_term","Artist":"Dominik Hauser","Genres":"scorecore, theme","Popularity":34}
+{"Term":"long_term","Artist":"ScHoolboy Q","Genres":"gangster rap, hip hop, pop rap, rap, southern hip hop, trap","Popularity":72}
+{"Term":"long_term","Artist":"LilyPichu","Genres":"otacore","Popularity":48}
+{"Term":"long_term","Artist":"Alan Walker","Genres":"electro house","Popularity":80}
+{"Term":"long_term","Artist":"Ariel Posen","Genres":"manitoba indie","Popularity":42}
+{"Term":"long_term","Artist":"The Jackson 5","Genres":"motown, soul","Popularity":66}
+{"Term":"long_term","Artist":"Jack Johnson","Genres":"neo mellow","Popularity":75}
+{"Term":"long_term","Artist":"James Morrison","Genres":"neo mellow","Popularity":62}
+{"Term":"long_term","Artist":"Ben Platt","Genres":"broadway, show tunes","Popularity":61}
+{"Term":"long_term","Artist":"Anna Kendrick","Genres":"hollywood, movie tunes","Popularity":69}
+{"Term":"long_term","Artist":"Stan Getz","Genres":"bebop, bossa nova, cool jazz, jazz, jazz saxophone, latin jazz, samba-jazz, vocal jazz","Popularity":65}
+{"Term":"long_term","Artist":"Travis Scott","Genres":"hip hop, rap, slap house","Popularity":93}
+{"Term":"long_term","Artist":"Brett Young","Genres":"contemporary country, country, country road, modern country rock","Popularity":65}
+{"Term":"long_term","Artist":"Bruno Major","Genres":"singer-songwriter pop","Popularity":65}
+{"Term":"long_term","Artist":"The Lumineers","Genres":"folk-pop, modern rock, stomp and holler","Popularity":78}
+{"Term":"long_term","Artist":"Nothing But Thieves","Genres":"alternative pop rock, modern alternative rock, modern rock","Popularity":69}
+{"Term":"long_term","Artist":"Daniel Caesar","Genres":"canadian contemporary r&b","Popularity":81}
+{"Term":"long_term","Artist":"Dove Cameron","Genres":"pop","Popularity":70}
+{"Term":"long_term","Artist":"The Dip","Genres":"retro soul","Popularity":54}
+{"Term":"long_term","Artist":"Hamish Anderson","Genres":"modern blues rock","Popularity":21}
+{"Term":"long_term","Artist":"Mumford & Sons","Genres":"modern folk rock, modern rock, neo mellow, stomp and holler, uk americana","Popularity":72}
+{"Term":"long_term","Artist":"Lake Street Dive","Genres":"boston rock, indie folk, new americana","Popularity":61}
+{"Term":"long_term","Artist":"Umbra","Genres":"","Popularity":31}
+{"Term":"long_term","Artist":"Lauv","Genres":"pop","Popularity":75}
+{"Term":"long_term","Artist":"SYML","Genres":"indie anthem-folk, modern indie pop","Popularity":71}
+{"Term":"long_term","Artist":"Eric Clapton","Genres":"album rock, blues rock, classic rock, electric blues, mellow gold, rock, singer-songwriter, soft rock","Popularity":70}
+{"Term":"long_term","Artist":"Dan + Shay","Genres":"contemporary country, country, country road","Popularity":69}
+{"Term":"long_term","Artist":"Nicki Minaj","Genres":"hip pop, pop, queens hip hop, rap","Popularity":87}
+{"Term":"long_term","Artist":"Miles Davis","Genres":"cool jazz, hard bop, jazz, jazz fusion, jazz trumpet, soul, vocal jazz","Popularity":62}
+{"Term":"long_term","Artist":"Avril Lavigne","Genres":"canadian pop, candy pop, dance pop, pop","Popularity":75}
+{"Term":"long_term","Artist":"Queen","Genres":"classic rock, glam rock, rock","Popularity":84}
+{"Term":"long_term","Artist":"Fiji Blue","Genres":"chill pop, chill r&b","Popularity":55}
+{"Term":"long_term","Artist":"Less Gravity","Genres":"lo-fi vgm, weirdcore","Popularity":51}
+{"Term":"long_term","Artist":"Lewis Capaldi","Genres":"pop, uk pop","Popularity":81}
+{"Term":"long_term","Artist":"Mac Miller","Genres":"hip hop, pittsburgh rap, rap","Popularity":81}
+{"Term":"long_term","Artist":"George Benson","Genres":"jazz funk, jazz guitar, smooth jazz, soul jazz, yacht rock","Popularity":63}
+{"Term":"long_term","Artist":"St. Paul & The Broken Bones","Genres":"retro soul","Popularity":53}
+{"Term":"long_term","Artist":"The Front Bottoms","Genres":"asbury park indie, emo, new jersey indie, pov: indie","Popularity":60}
+{"Term":"long_term","Artist":"Ashe","Genres":"alt z","Popularity":69}
+{"Term":"long_term","Artist":"Sam Fender","Genres":"modern rock, north east england indie","Popularity":69}
+{"Term":"long_term","Artist":"Blake Rose","Genres":"australian electropop, singer-songwriter pop","Popularity":51}
+{"Term":"long_term","Artist":"The Goo Goo Dolls","Genres":"neo mellow, permanent wave, pop rock, post-grunge","Popularity":72}
+{"Term":"long_term","Artist":"Escape the Fate","Genres":"alternative metal, metalcore, neon pop punk, pixie, pop punk, post-grunge, screamo","Popularity":61}
+{"Term":"long_term","Artist":"Jake Scott","Genres":"indiecoustica, singer-songwriter pop","Popularity":57}
+{"Term":"long_term","Artist":"Marcus King","Genres":"modern blues, modern blues rock","Popularity":53}
+{"Term":"long_term","Artist":"Sum 41","Genres":"alternative metal, canadian pop punk, canadian punk, modern rock, pop punk, post-grunge, punk, rock","Popularity":72}
+{"Term":"long_term","Artist":"BOYS LIKE GIRLS","Genres":"neon pop punk, pop punk","Popularity":60}
+{"Term":"long_term","Artist":"Del Water Gap","Genres":"deep new americana, indie pop, pov: indie","Popularity":60}
+{"Term":"long_term","Artist":"Alabama Shakes","Genres":"alabama indie, modern blues rock, rock","Popularity":59}
+{"Term":"long_term","Artist":"Oceanic","Genres":"virginia indie","Popularity":23}
+{"Term":"long_term","Artist":"NIGHT TRAVELER","Genres":"hopebeat","Popularity":36}
+{"Term":"long_term","Artist":"Anne-Marie","Genres":"pop","Popularity":78}
+{"Term":"long_term","Artist":"Mandy Moore","Genres":"dance pop, neo mellow, post-teen pop","Popularity":63}
+{"Term":"long_term","Artist":"Parachute","Genres":"acoustic pop, charlottesville indie, neo mellow, neon pop punk, pop rock, viral pop","Popularity":48}
+{"Term":"long_term","Artist":"Landon Conrath","Genres":"","Popularity":51}
+{"Term":"long_term","Artist":"Tedeschi Trucks Band","Genres":"blues rock, electric blues, jam band, modern blues, southern rock","Popularity":51}
+{"Term":"long_term","Artist":"Dobie Gray","Genres":"northern soul","Popularity":49}
+{"Term":"long_term","Artist":"Juice WRLD","Genres":"chicago rap, melodic rap, rap","Popularity":87}
+{"Term":"long_term","Artist":"Maggie Rogers","Genres":"indie pop","Popularity":70}
+{"Term":"long_term","Artist":"Nick Jonas","Genres":"dance pop, pop","Popularity":63}
+{"Term":"long_term","Artist":"Paul McCartney","Genres":"classic rock, mellow gold, rock, soft rock","Popularity":71}
+{"Term":"long_term","Artist":"The Brook & The Bluff","Genres":"alabama indie","Popularity":50}
+{"Term":"long_term","Artist":"Georgia Greene","Genres":"gen z singer-songwriter","Popularity":16}
+{"Term":"long_term","Artist":"Morgan Wallen","Genres":"contemporary country","Popularity":87}
+{"Term":"long_term","Artist":"RYLY","Genres":"hopebeat","Popularity":24}
+{"Term":"long_term","Artist":"Lawrence","Genres":"nyc pop, retro soul","Popularity":53}
+{"Term":"long_term","Artist":"Aly & AJ","Genres":"dance pop, girl group, post-teen pop","Popularity":54}
+{"Term":"long_term","Artist":"Gov't Mule","Genres":"blues rock, electric blues, jam band, modern blues, modern blues rock, southern rock","Popularity":44}
+{"Term":"long_term","Artist":"Bre Kennedy","Genres":"nashville singer-songwriter","Popularity":39}
+{"Term":"long_term","Artist":"Dan Auerbach","Genres":"modern blues rock","Popularity":55}
+{"Term":"long_term","Artist":"AJR","Genres":"pov: indie","Popularity":73}
+{"Term":"long_term","Artist":"Troy","Genres":"movie tunes","Popularity":59}
+{"Term":"long_term","Artist":"Chappell Roan","Genres":"indie pop, springfield mo indie","Popularity":64}
+{"Term":"long_term","Artist":"Perlo","Genres":"ambient folk","Popularity":28}
+{"Term":"long_term","Artist":"Wes Montgomery","Genres":"hard bop, jazz, jazz guitar","Popularity":50}
+{"Term":"long_term","Artist":"James TW","Genres":"british singer-songwriter, uk pop","Popularity":63}
+{"Term":"long_term","Artist":"BENEE","Genres":"alt z, nz pop","Popularity":63}
+{"Term":"long_term","Artist":"Pusha T","Genres":"gangster rap, hip hop, pop rap, rap, southern hip hop, trap, virginia hip hop","Popularity":73}
+{"Term":"long_term","Artist":"Amos Lee","Genres":"acoustic pop, neo mellow, stomp and holler","Popularity":58}
+{"Term":"long_term","Artist":"Glee Cast","Genres":"glee club, post-teen pop","Popularity":68}
+{"Term":"long_term","Artist":"The Heavy","Genres":"bath indie, modern blues rock","Popularity":56}
+{"Term":"long_term","Artist":"The Colourist","Genres":"indie poptimism, metropopolis, shimmer pop","Popularity":38}
+{"Term":"long_term","Artist":"Polaris","Genres":"australian metalcore, australian post-hardcore, melodic metalcore, metalcore","Popularity":60}
+{"Term":"long_term","Artist":"Guthrie Govan","Genres":"instrumental rock","Popularity":45}
+{"Term":"long_term","Artist":"Every Avenue","Genres":"neon pop punk, pop punk","Popularity":45}
+{"Term":"long_term","Artist":"Gatlin","Genres":"modern alternative pop","Popularity":50}
+{"Term":"long_term","Artist":"Bee Gees","Genres":"disco, mellow gold, soft rock","Popularity":77}
+{"Term":"long_term","Artist":"Future","Genres":"atl hip hop, hip hop, rap, southern hip hop, trap","Popularity":89}
+{"Term":"long_term","Artist":"I The Mighty","Genres":"bay area indie, progressive post-hardcore","Popularity":39}
+{"Term":"long_term","Artist":"Saint Motel","Genres":"la indie, modern alternative rock, modern rock, pov: indie","Popularity":62}
+{"Term":"long_term","Artist":"Taking Back Sunday","Genres":"emo, neon pop punk, pop punk, post-hardcore, screamo","Popularity":61}
+{"Term":"long_term","Artist":"Gotye","Genres":"australian pop","Popularity":68}
+{"Term":"long_term","Artist":"Maisie Peters","Genres":"alt z, uk pop","Popularity":65}
+{"Term":"long_term","Artist":"Kristen Bell","Genres":"movie tunes","Popularity":65}
+{"Term":"long_term","Artist":"Buck & Evans","Genres":"","Popularity":14}
+{"Term":"long_term","Artist":"Rob Thomas","Genres":"neo mellow, pop rock, post-grunge","Popularity":60}
+{"Term":"long_term","Artist":"Florida Georgia Line","Genres":"contemporary country, country, country pop, country road, modern country rock","Popularity":73}
+{"Term":"long_term","Artist":"girl in red","Genres":"bedroom pop, indie pop, norwegian indie, pov: indie","Popularity":74}
+{"Term":"long_term","Artist":"Talltale","Genres":"modern alternative pop","Popularity":23}
+{"Term":"long_term","Artist":"ayokay","Genres":"electropop, indie electropop, indie pop rap, indie poptimism","Popularity":49}
+{"Term":"long_term","Artist":"Fleet Foxes","Genres":"chamber pop, folk, indie folk, indie rock, indietronica, modern rock, seattle indie, singer-songwriter, stomp and holler","Popularity":63}
+{"Term":"long_term","Artist":"HAIM","Genres":"indietronica, metropopolis","Popularity":64}
+{"Term":"long_term","Artist":"Tyler, The Creator","Genres":"hip hop, rap","Popularity":84}
+{"Term":"long_term","Artist":"Shannon Lauren Callihan","Genres":"","Popularity":36}
+{"Term":"long_term","Artist":"JP Cooper","Genres":"uk pop","Popularity":65}
+{"Term":"long_term","Artist":"First and Forever","Genres":"pop punk","Popularity":49}
+{"Term":"long_term","Artist":"Breaking Benjamin","Genres":"alternative metal, nu metal, post-grunge","Popularity":70}
+{"Term":"long_term","Artist":"Social House","Genres":"","Popularity":63}
+{"Term":"long_term","Artist":"Freddie King","Genres":"blues, blues rock, electric blues, texas blues, traditional blues","Popularity":49}
+{"Term":"long_term","Artist":"Jackson Browne","Genres":"album rock, classic rock, country rock, folk, folk rock, heartland rock, mellow gold, piano rock, singer-songwriter, soft rock","Popularity":60}
+{"Term":"long_term","Artist":"Evanescence","Genres":"alternative metal","Popularity":72}
+{"Term":"long_term","Artist":"Gregory Alan Isakov","Genres":"indie folk, pop folk, stomp and flutter, stomp and holler","Popularity":70}
+{"Term":"long_term","Artist":"Jordan Fisher","Genres":"movie tunes, post-teen pop","Popularity":57}
+{"Term":"long_term","Artist":"Ray LaMontagne","Genres":"acoustic pop, indie folk, neo mellow, stomp and holler","Popularity":63}
+{"Term":"long_term","Artist":"Matt Wertz","Genres":"acoustic pop, neo mellow","Popularity":37}
+{"Term":"long_term","Artist":"Sam Fischer","Genres":"australian pop, singer-songwriter pop","Popularity":61}
+{"Term":"long_term","Artist":"Hayley Williams","Genres":"art pop","Popularity":65}
+{"Term":"long_term","Artist":"Maxine Nightingale","Genres":"classic uk pop","Popularity":48}
+{"Term":"long_term","Artist":"Vacation Manor","Genres":"hopebeat","Popularity":47}
+{"Term":"long_term","Artist":"Thomas Rhett","Genres":"contemporary country, country, country road, modern country rock","Popularity":72}
+{"Term":"long_term","Artist":"The Paper Kites","Genres":"australian indie folk, indie anthem-folk, indie folk, stomp and flutter, stomp and holler","Popularity":69}
+{"Term":"long_term","Artist":"Cody Fry","Genres":"indiecoustica","Popularity":58}
+{"Term":"long_term","Artist":"Ella Henderson","Genres":"dance pop, pop dance, talent show, uk pop","Popularity":72}
+{"Term":"long_term","Artist":"NF","Genres":"hip hop, pop rap","Popularity":79}
+{"Term":"long_term","Artist":"LORDFI","Genres":"lo-fi cover","Popularity":28}
+{"Term":"long_term","Artist":"Redbone","Genres":"native american contemporary, native american traditional","Popularity":61}
+{"Term":"long_term","Artist":"Joji","Genres":"viral pop","Popularity":78}
+{"Term":"long_term","Artist":"Phil Collins","Genres":"rock drums, soft rock","Popularity":75}
+{"Term":"long_term","Artist":"Allen Stone","Genres":"retro soul","Popularity":51}
+{"Term":"long_term","Artist":"Lil Baby","Genres":"atl hip hop, atl trap, rap, trap","Popularity":86}
+{"Term":"long_term","Artist":"Sam Cooke","Genres":"classic soul, soul, vocal jazz","Popularity":68}
+{"Term":"long_term","Artist":"Brett Eldredge","Genres":"contemporary country, country, country road, modern country rock","Popularity":59}
+{"Term":"long_term","Artist":"Ludwig G\u00f6ransson","Genres":"nordic soundtrack, orchestral soundtrack, soundtrack","Popularity":67}
+{"Term":"long_term","Artist":"The Chicks","Genres":"contemporary country, country, country dawn","Popularity":66}
+{"Term":"long_term","Artist":"Nashville Cast","Genres":"","Popularity":48}
+{"Term":"long_term","Artist":"Todd Baker","Genres":"video game music","Popularity":37}
+{"Term":"long_term","Artist":"Disatelier","Genres":"","Popularity":25}
+{"Term":"long_term","Artist":"The Temptations","Genres":"classic soul, memphis soul, motown, soul","Popularity":67}
+{"Term":"long_term","Artist":"Jeremy Zucker","Genres":"alt z, electropop, pop","Popularity":68}
+{"Term":"long_term","Artist":"Weezer","Genres":"alternative rock, modern power pop, modern rock, permanent wave, rock","Popularity":73}
+{"Term":"long_term","Artist":"The Beach Boys","Genres":"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, sunshine pop","Popularity":71}
+{"Term":"long_term","Artist":"Camo Columbo","Genres":"","Popularity":31}
+{"Term":"long_term","Artist":"Chance Pe\u00f1a","Genres":"singer-songwriter pop","Popularity":72}
+{"Term":"long_term","Artist":"Looking Glass","Genres":"sunshine pop","Popularity":56}
+{"Term":"long_term","Artist":"Hailee Steinfeld","Genres":"pop","Popularity":68}
+{"Term":"long_term","Artist":"Meghan Trainor","Genres":"hip pop, pop","Popularity":76}
+{"Term":"long_term","Artist":"Bing Crosby","Genres":"adult standards, easy listening, lounge","Popularity":64}
+{"Term":"long_term","Artist":"Joe Jonas","Genres":"pop, post-teen pop","Popularity":55}
+{"Term":"long_term","Artist":"Aretha Franklin","Genres":"classic soul, jazz blues, memphis soul, neo soul, soul, southern soul, vocal jazz","Popularity":70}
+{"Term":"long_term","Artist":"Seaway","Genres":"anthem emo, canadian pop punk, canadian punk, easycore, pop punk","Popularity":36}
+{"Term":"long_term","Artist":"Burl Ives","Genres":"american folk revival","Popularity":56}
+{"Term":"long_term","Artist":"DJ Khaled","Genres":"hip hop, miami hip hop, pop rap, rap","Popularity":75}
+{"Term":"long_term","Artist":"Bill Withers","Genres":"classic soul, funk, quiet storm, soul","Popularity":73}
+{"Term":"long_term","Artist":"Carpenters","Genres":"adult standards, mellow gold, soft rock","Popularity":67}
+{"Term":"long_term","Artist":"Norah Jones","Genres":"contemporary vocal jazz, jazz pop, vocal jazz","Popularity":73}
+{"Term":"long_term","Artist":"Andy Grammer","Genres":"neo mellow, post-teen pop, viral pop","Popularity":66}
+{"Term":"long_term","Artist":"Mitski","Genres":"brooklyn indie, pov: indie","Popularity":84}
+{"Term":"long_term","Artist":"The Jacksons","Genres":"disco, motown","Popularity":57}
+{"Term":"long_term","Artist":"The Doobie Brothers","Genres":"album rock, classic rock, country rock, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock","Popularity":66}
+{"Term":"long_term","Artist":"Brent Faiyaz","Genres":"r&b, rap","Popularity":84}
+{"Term":"long_term","Artist":"Dean Martin","Genres":"adult standards, easy listening, lounge, vocal jazz","Popularity":69}
+{"Term":"long_term","Artist":"Duke Ellington","Genres":"african-american classical, harlem renaissance, jazz, jazz piano, swing, vocal jazz","Popularity":57}
+{"Term":"long_term","Artist":"FIFTY FIFTY","Genres":"k-pop girl group","Popularity":68}
+{"Term":"long_term","Artist":"Lynyrd Skynyrd","Genres":"album rock, classic rock, hard rock, rock, southern rock","Popularity":72}
+{"Term":"long_term","Artist":"The Dave Brubeck Quartet","Genres":"bebop, jazz, jazz quartet","Popularity":56}
+{"Term":"long_term","Artist":"Steven Universe","Genres":"pov: indie","Popularity":66}
+{"Term":"long_term","Artist":"REO Speedwagon","Genres":"album rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, rock, soft rock","Popularity":64}
+{"Term":"long_term","Artist":"Chelsea Cutler","Genres":"alt z","Popularity":66}
+{"Term":"long_term","Artist":"ZAYN","Genres":"pop, uk pop","Popularity":75}
+{"Term":"long_term","Artist":"d4vd","Genres":"bedroom pop","Popularity":77}
+{"Term":"long_term","Artist":"Rosie Darling","Genres":"alt z","Popularity":55}
+{"Term":"long_term","Artist":"The Band Perry","Genres":"contemporary country, country, country dawn, country road","Popularity":55}
+{"Term":"long_term","Artist":"George Harrison","Genres":"album rock, classic rock, folk rock, mellow gold, rock, singer-songwriter, soft rock","Popularity":66}
+{"Term":"long_term","Artist":"Kina Grannis","Genres":"acoustic pop, viral pop","Popularity":59}
+{"Term":"long_term","Artist":"Electric Light Orchestra","Genres":"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock","Popularity":70}
+{"Term":"long_term","Artist":"Clinton Kane","Genres":"alt z, gen z singer-songwriter","Popularity":63}
+{"Term":"long_term","Artist":"The Police","Genres":"album rock, classic rock, permanent wave, rock","Popularity":76}
+{"Term":"long_term","Artist":"Zac Efron","Genres":"hollywood, movie tunes, post-teen pop","Popularity":67}
+{"Term":"long_term","Artist":"Bleachers","Genres":"indie pop, indie poptimism, modern rock, pov: indie","Popularity":69}
+{"Term":"long_term","Artist":"Gorillaz","Genres":"alternative hip hop, modern rock, rock","Popularity":78}
+{"Term":"long_term","Artist":"Bon Jovi","Genres":"glam metal, rock","Popularity":77}
+{"Term":"long_term","Artist":"Glen Campbell","Genres":"adult standards, arkansas country, classic country pop, folk rock, mellow gold, nashville sound, singer-songwriter, soft rock","Popularity":61}
+{"Term":"long_term","Artist":"Chris Lane","Genres":"contemporary country, country, country road, modern country rock","Popularity":56}
+{"Term":"long_term","Artist":"Plain White T's","Genres":"modern rock, neo mellow, neon pop punk, pop punk, pop rock","Popularity":63}
+{"Term":"long_term","Artist":"The Teskey Brothers","Genres":"australian americana","Popularity":63}
+{"Term":"long_term","Artist":"Rod Stewart","Genres":"mellow gold, soft rock","Popularity":72}
+{"Term":"long_term","Artist":"Dizzy Gillespie","Genres":"bebop, contemporary post-bop, jazz, jazz trumpet, vocal jazz","Popularity":49}
+{"Term":"long_term","Artist":"Albert King","Genres":"blues, blues rock, electric blues, memphis soul, soul blues, traditional blues","Popularity":49}
+{"Term":"long_term","Artist":"Lana Del Rey","Genres":"art pop, pop","Popularity":90}
+{"Term":"long_term","Artist":"Reba McEntire","Genres":"classic oklahoma country, contemporary country, country, country dawn, country road","Popularity":61}
+{"Term":"long_term","Artist":"Jay & The Americans","Genres":"bubblegum pop, classic garage rock, doo-wop, merseybeat, rock-and-roll","Popularity":49}
+{"Term":"long_term","Artist":"The Marcus King Band","Genres":"jam band, modern blues, modern blues rock","Popularity":51}
+{"Term":"long_term","Artist":"Keith Urban","Genres":"australian country, australian pop, contemporary country, country, country road, modern country rock","Popularity":68}
+{"Term":"long_term","Artist":"BROCKHAMPTON","Genres":"boy band, rap","Popularity":64}
+{"Term":"long_term","Artist":"Kevin Gates","Genres":"baton rouge rap, rap, southern hip hop, trap","Popularity":72}
+{"Term":"long_term","Artist":"Ne-Yo","Genres":"dance pop, pop, r&b, urban contemporary","Popularity":79}
+{"Term":"long_term","Artist":"Tom Petty","Genres":"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock","Popularity":69}
+{"Term":"long_term","Artist":"Tony Bennett","Genres":"adult standards, easy listening, lounge, vocal jazz","Popularity":62}
+{"Term":"long_term","Artist":"Ti\u00ebsto","Genres":"big room, brostep, dutch edm, edm, house, pop dance, slap house, trance","Popularity":84}
+{"Term":"long_term","Artist":"Bruce Springsteen","Genres":"heartland rock, mellow gold, permanent wave, rock, singer-songwriter","Popularity":74}
+{"Term":"long_term","Artist":"Snow Patrol","Genres":"irish rock, modern rock, neo mellow, permanent wave, pop rock","Popularity":68}
+{"Term":"long_term","Artist":"Zach Bryan","Genres":"classic oklahoma country","Popularity":87}
+{"Term":"long_term","Artist":"UMI","Genres":"alternative r&b, bedroom soul","Popularity":68}
+{"Term":"long_term","Artist":"Grateful Dead","Genres":"cosmic american, jam band, psychedelic rock","Popularity":64}
+{"Term":"long_term","Artist":"Radiohead","Genres":"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock","Popularity":81}
+{"Term":"long_term","Artist":"Adam Hambrick","Genres":"arkansas country, country pop","Popularity":32}
+{"Term":"long_term","Artist":"The Spinners","Genres":"classic soul, disco, funk, motown, philly soul, quiet storm, soul, southern soul","Popularity":59}
+{"Term":"long_term","Artist":"Leona Lewis","Genres":"british soul, dance pop, pop, talent show","Popularity":65}
+{"Term":"long_term","Artist":"Wham!","Genres":"new romantic, new wave pop, soft rock","Popularity":69}
+{"Term":"long_term","Artist":"Cold War Kids","Genres":"indie rock, modern alternative rock, modern rock, piano rock, stomp and holler","Popularity":61}
+{"Term":"long_term","Artist":"AC\/DC","Genres":"australian rock, hard rock, rock","Popularity":81}
+{"Term":"long_term","Artist":"George Michael","Genres":"new wave pop","Popularity":72}
+{"Term":"long_term","Artist":"Whitney Houston","Genres":"dance pop, pop","Popularity":75}
+{"Term":"long_term","Artist":"The Black Keys","Genres":"alternative rock, blues rock, garage rock, indie rock, indietronica, modern blues rock, modern rock, punk blues, rock, roots rock","Popularity":72}
+{"Term":"long_term","Artist":"Disclosure","Genres":"edm, house, indietronica, uk dance","Popularity":72}
+{"Term":"long_term","Artist":"Mat Kearney","Genres":"acoustic pop, neo mellow","Popularity":52}
+{"Term":"long_term","Artist":"Cast of High School Musical: The Musical: The Series","Genres":"movie tunes","Popularity":47}
+{"Term":"long_term","Artist":"Jung Kook","Genres":"k-pop","Popularity":86}
+{"Term":"long_term","Artist":"Bad Bunny","Genres":"reggaeton, trap latino, urbano latino","Popularity":95}
