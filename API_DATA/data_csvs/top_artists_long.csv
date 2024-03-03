@@ -1,0 +1,538 @@
+Term,Artist,Genres,Popularity
+long_term,John Mayer,"neo mellow, singer-songwriter",76
+long_term,Billie Eilish,"art pop, pop",88
+long_term,Drake,"canadian hip hop, canadian pop, hip hop, pop rap, rap",96
+long_term,Noah Cyrus,"alt z, pop",71
+long_term,My Chemical Romance,"emo, modern rock, pop punk, pov: indie, rock",76
+long_term,Miley Cyrus,pop,84
+long_term,The Weeknd,"canadian contemporary r&b, canadian pop, pop",95
+long_term,All Time Low,"modern rock, neon pop punk, pop emo, pop punk",68
+long_term,Hozier,"irish singer-songwriter, modern rock, pov: indie",82
+long_term,5 Seconds of Summer,"boy band, pop",76
+long_term,Catfish and the Bottlemen,"modern alternative rock, modern rock, stomp pop, welsh rock",65
+long_term,Taylor Swift,pop,100
+long_term,Phoebe Bridgers,"indie pop, la indie, pov: indie",78
+long_term,Young the Giant,"indietronica, modern alternative rock, modern rock, pov: indie, stomp and holler",66
+long_term,Olivia Rodrigo,pop,88
+long_term,Nightly,hopebeat,50
+long_term,Gracie Abrams,alt z,75
+long_term,Sabrina Carpenter,pop,80
+long_term,Gary Clark Jr.,"electric blues, modern blues rock, rock, soul blues, texas blues",56
+long_term,Kendrick Lamar,"conscious hip hop, hip hop, rap, west coast rap",88
+long_term,Harry Styles,pop,84
+long_term,Tate McRae,"alt z, pop",86
+long_term,Sara Bareilles,"acoustic pop, ectofolk, lilith, neo mellow, pop rock, post-teen pop, viral pop",64
+long_term,Arctic Monkeys,"garage rock, modern rock, permanent wave, rock, sheffield indie",86
+long_term,Paramore,"candy pop, modern rock, pixie, pop, pop emo, pop punk, rock",77
+long_term,Shawn Mendes,"canadian pop, pop, viral pop",82
+long_term,Maroon 5,pop,85
+long_term,Kanye West,"chicago rap, hip hop, rap",95
+long_term,Ed Sheeran,"pop, singer-songwriter pop, uk pop",87
+long_term,Dance Gavin Dance,"pixie, sacramento indie, screamo, swancore",62
+long_term,Joshua Bassett,singer-songwriter pop,58
+long_term,Joey Landreth,"canadian folk, manitoba indie",26
+long_term,Conan Gray,"bedroom pop, pop, pov: indie",79
+long_term,Bad Omens,american metalcore,73
+long_term,Sam Smith,"pop, uk pop",83
+long_term,Ariana Grande,pop,89
+long_term,Dua Lipa,"dance pop, pop, uk pop",88
+long_term,Bastille,"metropopolis, modern rock, pop",75
+long_term,Cory Wong,instrumental funk,54
+long_term,SZA,"pop, r&b, rap",90
+long_term,Charli Adams,nashville singer-songwriter,34
+long_term,James Bay,"neo mellow, pop, uk pop",69
+long_term,Nickelback,"alternative metal, canadian rock, post-grunge",76
+long_term,Greta Van Fleet,"modern blues rock, modern hard rock, rock",66
+long_term,Eagles,"album rock, classic rock, heartland rock, mellow gold, rock, soft rock, yacht rock",75
+long_term,Justin Bieber,"canadian pop, pop",89
+long_term,Doja Cat,"dance pop, pop",87
+long_term,The Killers,"alternative rock, dance rock, modern rock, permanent wave, rock",77
+long_term,Jukebox The Ghost,"modern rock, piano rock, pov: indie",49
+long_term,Bazzi,pop,69
+long_term,Ruel,"alt z, australian alternative pop, pop",63
+long_term,SUGR?,,35
+long_term,Halsey,"electropop, etherpop, indie poptimism, pop",80
+long_term,Cam,"contemporary country, modern country rock",51
+long_term,J. Cole,"conscious hip hop, hip hop, north carolina hip hop, rap",86
+long_term,The Black Crowes,"album rock, blues rock, classic rock, electric blues, hard rock, heartland rock, jam band, rock, southern rock",60
+long_term,Gavin DeGraw,"neo mellow, pop rock",60
+long_term,Post Malone,"dfw rap, melodic rap, pop, rap",87
+long_term,Coldplay,"permanent wave, pop",87
+long_term,Death Cab for Cutie,"alternative rock, canadian indie, chamber pop, indie rock, indietronica, modern rock, seattle indie, washington indie",62
+long_term,The Snuts,"britpop revival, scottish indie rock",54
+long_term,Green Day,"modern rock, permanent wave, punk, rock",80
+long_term,The Academic,irish indie,47
+long_term,Rihanna,"barbadian pop, pop, urban contemporary",90
+long_term,The 1975,"modern alternative rock, modern rock, pop, pov: indie, rock",76
+long_term,21 Savage,"atl hip hop, hip hop, rap",92
+long_term,Panic! At The Disco,"modern rock, pop",77
+long_term,Lizzo,"escape room, minnesota hip hop, pop, trap queen",71
+long_term,OneRepublic,"piano rock, pop",82
+long_term,Adele,"british soul, pop, pop soul, uk pop",85
+long_term,Tonight Alive,"candy pop, pixie, pop emo, pop punk",47
+long_term,Ashnikko,"alt z, escape room",68
+long_term,Hunter Hayes,"contemporary country, country, country road, modern country rock",55
+long_term,Stevie Wonder,"motown, soul",75
+long_term,Red Hot Chili Peppers,"alternative rock, funk metal, funk rock, permanent wave, rock",82
+long_term,Khalid,"pop, pop r&b",82
+long_term,Alessia Cara,"canadian contemporary r&b, canadian pop, pop",72
+long_term,Ben Rector,"acoustic pop, indiecoustica, lds youth, neo mellow, piano rock",58
+long_term,Em Beihold,"alt z, gen z singer-songwriter",72
+long_term,Elvis Presley,"rock-and-roll, rockabilly",77
+long_term,BØRNS,"indie poptimism, modern alternative rock, modern rock, pov: indie",67
+long_term,The Struts,"glam rock, modern alternative rock",59
+long_term,Bruno Mars,"dance pop, pop",88
+long_term,The Kid LAROI,australian hip hop,79
+long_term,H.E.R.,"r&b, rap",75
+long_term,Elton John,"glam rock, mellow gold, piano rock, rock",82
+long_term,Zella Day,"alt z, electropop, gauze pop, indie poptimism",54
+long_term,Creed,"alternative metal, nu metal, post-grunge",70
+long_term,FLETCHER,"alt z, pop",64
+long_term,Bob Marley & The Wailers,"reggae, roots reggae",82
+long_term,Mötley Crüe,"album rock, alternative metal, glam metal, hard rock, metal, rock, sleaze rock",70
+long_term,Styx,"album rock, classic rock, glam metal, hard rock, mellow gold, progressive rock, rock, soft rock",61
+long_term,Jason Mraz,"acoustic pop, dance pop, neo mellow, pop",72
+long_term,Niall Horan,pop,76
+long_term,One Direction,"boy band, pop, post-teen pop, talent show",83
+long_term,vaultboy,singer-songwriter pop,61
+long_term,Pierce The Veil,"modern rock, pop punk, screamo",72
+long_term,Two Door Cinema Club,"indie rock, indietronica, irish rock, modern alternative rock, modern rock, northern irish indie",68
+long_term,Cage The Elephant,"modern alternative rock, modern rock, pov: indie, punk blues, rock",73
+long_term,Lady A,"contemporary country, country, country dawn, country pop, country road",66
+long_term,Fall Out Boy,"emo, modern rock, pop, rock",79
+long_term,Lukas Graham,"danish pop, scandipop",70
+long_term,Lil Nas X,lgbtq+ hip hop,76
+long_term,Michael Jackson,"r&b, soul",82
+long_term,JP Saxe,"alt z, canadian contemporary r&b, singer-songwriter pop",65
+long_term,Billy Joel,"album rock, classic rock, heartland rock, mellow gold, piano rock, rock, singer-songwriter, soft rock",77
+long_term,KALEO,"icelandic indie, icelandic rock, modern alternative rock",69
+long_term,Mt. Joy,stomp and holler,69
+long_term,The Beatles,"british invasion, classic rock, merseybeat, psychedelic rock, rock",84
+long_term,Neon Trees,"modern rock, neo mellow, pop rock, pov: indie",65
+long_term,Scott Bradlee's Postmodern Jukebox,"jazz cover, swing",59
+long_term,Michael Bublé,"adult standards, canadian pop, jazz pop, lounge",75
+long_term,The All-American Rejects,"alternative metal, modern rock, neo mellow, neon pop punk, pop punk, pop rock, post-grunge",66
+long_term,Led Zeppelin,"album rock, classic rock, hard rock, rock",75
+long_term,boygenius,indie pop,70
+long_term,Reneé Rapp,"alt z, singer-songwriter pop",75
+long_term,Daughtry,"alternative metal, neo mellow, pop rock, post-grunge",64
+long_term,Jimi Hendrix,"acid rock, album rock, alternative rock, classic rock, hard rock, proto-metal, psychedelic rock, rock",69
+long_term,U2,"irish rock, permanent wave, rock",77
+long_term,Troye Sivan,"australian pop, pop, viral pop",78
+long_term,Marshmello,"brostep, edm, pop, progressive electro house",84
+long_term,Jonas Brothers,"boy band, pop",75
+long_term,PJ Harding,australian singer-songwriter,51
+long_term,Abby Holliday,modern indie folk,32
+long_term,Cardinal Black,backing track,27
+long_term,Katy Perry,pop,84
+long_term,Bowling For Soup,"neon pop punk, pop punk, pop rock, texas pop punk",60
+long_term,Stevie Ray Vaughan,"album rock, blues, blues rock, classic rock, electric blues, hard rock, heartland rock, instrumental rock, rock, texas blues",61
+long_term,John Legend,"neo soul, pop, pop soul, urban contemporary",75
+long_term,Creedence Clearwater Revival,"album rock, classic rock, country rock, rock, southern rock, swamp rock",80
+long_term,Rascal Flatts,"contemporary country, country, country road",68
+long_term,Carrie Underwood,"classic oklahoma country, contemporary country, country, country dawn, dance pop, pop",69
+long_term,Marvin Gaye,"classic soul, motown, neo soul, northern soul, quiet storm, soul",73
+long_term,Imagine Dragons,"modern rock, pop, rock",86
+long_term,Justin Timberlake,"dance pop, pop",82
+long_term,Daya,"alt z, pop",68
+long_term,Journey,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, soft rock",73
+long_term,Maddie & Tae,"contemporary country, country, country road",60
+long_term,White Noise Radiance,shush,79
+long_term,COIN,pov: indie,60
+long_term,Rush,"album rock, canadian metal, classic canadian rock, classic rock, hard rock, progressive rock, rock",65
+long_term,Fleetwood Mac,"album rock, classic rock, rock, soft rock, yacht rock",81
+long_term,Hugh Jackman,"hollywood, show tunes",66
+long_term,Foreigner,"album rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, rock, soft rock",69
+long_term,The Bros. Landreth,canadian folk,33
+long_term,Jimmy Buffett,trop rock,66
+long_term,Daryl Hall & John Oates,"album rock, classic rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",73
+long_term,Matchbox Twenty,"neo mellow, pop rock, post-grunge",67
+long_term,Haley Joelle,"alt z, gen z singer-songwriter",53
+long_term,JAY-Z,"east coast hip hop, gangster rap, hip hop, pop rap, rap",83
+long_term,Van Halen,"album rock, classic rock, hard rock, rock",71
+long_term,Alexander 23,"alt z, singer-songwriter pop",60
+long_term,Linkin Park,"alternative metal, nu metal, post-grunge, rap metal, rock",85
+long_term,Eric Hutchinson,"acoustic pop, neo mellow",45
+long_term,Jodi Benson,movie tunes,52
+long_term,Frank Ocean,"lgbtq+ hip hop, neo soul",84
+long_term,B.B. King,"blues, blues rock, classic rock, electric blues, jazz blues, soul blues, traditional blues",60
+long_term,Sing Street,,40
+long_term,Matt Maeson,pov: indie,62
+long_term,Joyce Manor,"alternative emo, dreamo, emo, indie punk, lo-fi emo",53
+long_term,John Williams,"orchestral soundtrack, soundtrack",71
+long_term,The Red Jumpsuit Apparatus,"alternative metal, neon pop punk, pop punk, post-grunge, screamo",63
+long_term,Boston,"album rock, classic rock, glam metal, hard rock, mellow gold, rock, soft rock",65
+long_term,JVKE,"modern indie pop, pov: indie, singer-songwriter pop",76
+long_term,Surfaces,bedroom soul,64
+long_term,Sia,"australian dance, australian pop, pop",83
+long_term,James Arthur,"pop, talent show, uk pop",81
+long_term,Nirvana,"grunge, permanent wave, rock",81
+long_term,Lizzy McAlpine,"alt z, boston folk, indie pop, singer-songwriter pop",72
+long_term,Ingrid Michaelson,"acoustic pop, ectofolk, lilith, neo mellow",58
+long_term,Demi Lovato,"pop, post-teen pop",77
+long_term,Chet Baker,"cool jazz, jazz, jazz trumpet, vocal jazz",65
+long_term,Charlie Puth,"pop, viral pop",80
+long_term,blink-182,"alternative metal, modern rock, pop punk, punk, rock, socal pop punk",78
+long_term,Zhé Aqueen,,0
+long_term,Lorde,"art pop, metropopolis, nz pop, pop",75
+long_term,Wallows,pov: indie,69
+long_term,Hannah Montana,"pop, post-teen pop",62
+long_term,Wild Rivers,folk-pop,64
+long_term,The Chainsmokers,pop,79
+long_term,Aerosmith,"album rock, classic rock, hard rock, rock",75
+long_term,Daniel Donato,"jam band, nashville americana",35
+long_term,Muse,"alternative rock, modern rock, permanent wave, rock",74
+long_term,Gavin James,irish pop,58
+long_term,Otis Redding,"classic soul, memphis soul, soul, soul blues, southern soul, vocal jazz",70
+long_term,Train,"dance pop, neo mellow, pop, pop rock",72
+long_term,The Neighbourhood,"modern alternative rock, modern rock, pop",83
+long_term,Phillip Phillips,"folk-pop, neo mellow, pop rock",61
+long_term,Corella,"english indie rock, manchester indie",49
+long_term,Dr. Dre,"g funk, gangster rap, hip hop, rap, west coast rap",79
+long_term,Kid Cudi,"hip hop, ohio hip hop, pop rap, rap",81
+long_term,Charli XCX,"art pop, candy pop, metropopolis, pop, uk pop",74
+long_term,GAYLE,modern alternative pop,63
+long_term,Justin Hurwitz,"hollywood, movie tunes",63
+long_term,Better Oblivion Community Center,"indie pop, indie rock",43
+long_term,Allman Brothers Band,"album rock, blues rock, classic rock, country rock, electric blues, folk rock, hard rock, heartland rock, jam band, mellow gold, rock, singer-songwriter, soft rock, southern rock",62
+long_term,RAYE,"uk contemporary r&b, uk pop",78
+long_term,Shinedown,"alternative metal, nu metal, post-grunge",70
+long_term,Robben Ford,"blues, electric blues, jazz blues, jazz fusion, modern blues, soul blues",39
+long_term,Maren Morris,"classic texas country, contemporary country",69
+long_term,Beyoncé,"pop, r&b",87
+long_term,A Day To Remember,"alternative metal, metalcore, neon pop punk, pop punk, screamo",68
+long_term,Calvin Harris,"dance pop, edm, electro house, house, pop, pop dance, progressive house, uk dance",85
+long_term,Nat King Cole,"adult standards, lounge, soul, swing, vocal jazz",70
+long_term,Frank Sinatra,"adult standards, easy listening, lounge",77
+long_term,Lil Wayne,"hip hop, new orleans rap, pop rap, rap, trap",85
+long_term,Yellowcard,"alternative metal, pop punk, post-grunge, socal pop punk",62
+long_term,LP,"la pop, women's music",66
+long_term,Etta James,"jazz blues, soul, soul blues, torch song, vocal jazz",69
+long_term,Sadie Hawkins,,17
+long_term,Ella Fitzgerald,"adult standards, jazz, jazz blues, soul, swing, vocal jazz",67
+long_term,Alan Menken,"broadway, movie tunes, orchestral soundtrack",60
+long_term,Twenty One Pilots,"modern rock, pop, pov: indie, rock",80
+long_term,Jessie Murph,"modern country pop, singer-songwriter pop",72
+long_term,Alicia Keys,"neo soul, pop, r&b",78
+long_term,Lea Salonga,"movie tunes, tagalog worship",58
+long_term,Dolly Parton,"classic country pop, country, country dawn",72
+long_term,Miguel,"r&b, urban contemporary",78
+long_term,The Script,"celtic rock, pop",73
+long_term,Mokita,"chill pop, singer-songwriter pop",57
+long_term,P!nk,"dance pop, pop",80
+long_term,Jack Harlow,"deep underground hip hop, kentucky hip hop, pop rap, rap",83
+long_term,Noah Kahan,pov: indie,87
+long_term,Lauren Weintraub,"alt z, gen z singer-songwriter",40
+long_term,The xx,"downtempo, dream pop, indietronica",66
+long_term,Doyle Bramhall II,"electric blues, modern blues, modern blues rock",30
+long_term,DNCE,"dance pop, pop",68
+long_term,The Backseat Lovers,"pov: indie, slc indie",66
+long_term,Stephen Sanchez,gen z singer-songwriter,77
+long_term,Samuel E. Wright,movie tunes,54
+long_term,Lady Gaga,"art pop, dance pop, pop",84
+long_term,Gunna,"atl hip hop, melodic rap, rap, trap",84
+long_term,Penelope Scott,"alt z, modern indie pop, pov: indie",61
+long_term,Art Ellefson & Jazz Modus,,0
+long_term,Of Monsters and Men,"folk-pop, metropopolis, modern rock, stomp and holler",67
+long_term,THE DRIVER ERA,modern alternative rock,56
+long_term,Abigail Osborn,,34
+long_term,Kesha,"dance pop, pop",77
+long_term,Ryan Gosling,hollywood,61
+long_term,Childish Gambino,"atl hip hop, hip hop, rap",79
+long_term,Vulfpeck,"ann arbor indie, funk rock, instrumental funk",58
+long_term,Second Breakfast,,40
+long_term,benny blanco,pop,71
+long_term,Austin Hull,dark r&b,27
+long_term,Incomingon,,37
+long_term,Former Days,,38
+long_term,PROJECT FIXATE,,39
+long_term,ad harmony,,38
+long_term,Slipknot,"alternative metal, nu metal, rap metal, rock",77
+long_term,Alan Silvestri,"orchestral soundtrack, soundtrack",57
+long_term,Pink Floyd,"album rock, art rock, classic rock, progressive rock, psychedelic rock, rock, symphonic rock",78
+long_term,MEDUZA,"edm, pop dance, pop house, uk dance",75
+long_term,Zedd,"complextro, edm, german techno, pop, pop dance",73
+long_term,The Cult,"album rock, hard rock, new wave, rock",57
+long_term,Black Country Communion,"modern hard rock, supergroup",35
+long_term,Vance Joy,"folk-pop, modern rock",76
+long_term,Black Eyed Peas,"dance pop, pop, pop rap",79
+long_term,Auli'i Cravalho,movie tunes,65
+long_term,Willie Nelson,"classic country pop, classic texas country, country, country rock, nashville sound, outlaw country, singer-songwriter",70
+long_term,Taron Egerton,hollywood,61
+long_term,Kacey Musgraves,"classic texas country, contemporary country, country dawn",77
+long_term,Sleeping With Sirens,"neon pop punk, pop emo, pop punk, screamo",63
+long_term,Alan Jackson,country,71
+long_term,Bear's Den,"folk-pop, stomp and flutter, uk americana",54
+long_term,Megan Thee Stallion,"houston rap, pop, r&b, rap, trap queen",79
+long_term,Mark Ronson,pop soul,73
+long_term,Natalie Cole,"adult standards, disco, quiet storm, soul, vocal jazz",62
+long_term,Eminem,"detroit hip hop, hip hop, rap",90
+long_term,Kali Uchis,colombian pop,86
+long_term,Leon Bridges,"modern blues, neo soul, soul",71
+long_term,Tommy Lefroy,"indie pop, modern indie folk",47
+long_term,LANY,"la pop, opm",72
+long_term,Mik,anime lo-fi,46
+long_term,Ben Howard,"british singer-songwriter, folk-pop, indie folk",64
+long_term,Frankie Valli & The Four Seasons,"adult standards, bubblegum pop, doo-wop, lounge, northern soul, rock-and-roll, rockabilly",62
+long_term,Frankie Valli,"adult standards, bubblegum pop, lounge, rock-and-roll",63
+long_term,Kelly Clarkson,"dance pop, pop, talent show",73
+long_term,Dayglow,"austindie, indie rock, pov: indie",64
+long_term,Greyson Chance,"post-teen pop, viral pop",48
+long_term,Current Joys,"lo-fi indie, pov: indie",68
+long_term,Cigarettes After Sex,"ambient pop, dream pop, el paso indie, shoegaze",82
+long_term,Tori Kelly,"pop, post-teen pop",65
+long_term,Metro Boomin,"hip hop, rap",88
+long_term,Dominic Fike,"alternative pop rock, pov: indie",76
+long_term,Player One,,47
+long_term,I Luca,,34
+long_term,A Samurai In Tokyo,,44
+long_term,Jason Derulo,"dance pop, pop",80
+long_term,Daft Punk,"electro, filter house, rock",80
+long_term,Ambio,,37
+long_term,Laureline,"hopebeat, la pop",20
+long_term,The Story So Far,"alternative emo, emo, pop punk",57
+long_term,Glass Animals,"gauze pop, indietronica, modern rock, pov: indie, shiver pop",74
+long_term,Colbie Caillat,"dance pop, neo mellow, pop",67
+long_term,Zander Hawley,,29
+long_term,Florence + The Machine,"baroque pop, electropop, modern rock, uk alternative pop",76
+long_term,Neutral Milk Hotel,"alternative rock, chamber pop, elephant 6, indie rock, lo-fi, noise pop",56
+long_term,The Reytons,english indie rock,54
+long_term,Tove Lo,"dance pop, metropopolis, pop, swedish electropop, swedish pop, swedish synthpop",72
+long_term,Aidan Bissett,gen z singer-songwriter,55
+long_term,Baby Keem,"hip hop, rap",78
+long_term,Leela James,"neo soul, r&b, urban contemporary",45
+long_term,Nick Jonas & The Administration,post-teen pop,29
+long_term,London Voices,british choir,41
+long_term,ABBA,"europop, swedish pop",80
+long_term,Lebouth,,30
+long_term,The Revivalists,modern alternative rock,57
+long_term,Bad Suns,"la indie, modern alternative rock, modern rock, pov: indie",55
+long_term,Julia Michaels,pop,73
+long_term,Måneskin,"indie rock italiano, italian pop",79
+long_term,milk.,,40
+long_term,Kings of Leon,"modern rock, rock",74
+long_term,Mariah Carey,"dance pop, pop, urban contemporary",78
+long_term,Zeph,gen z singer-songwriter,63
+long_term,Foo Fighters,"alternative metal, alternative rock, modern rock, permanent wave, post-grunge, rock",77
+long_term,Thirty Seconds To Mars,"modern rock, post-grunge",69
+long_term,The Flaming Lips,"alternative rock, chamber pop, indie rock, indietronica, noise pop, okc indie, singer-songwriter",54
+long_term,Chrisette Michele,"contemporary r&b, hip pop, neo soul, r&b, urban contemporary",56
+long_term,Dominik Hauser,"scorecore, theme",34
+long_term,ScHoolboy Q,"gangster rap, hip hop, pop rap, rap, southern hip hop, trap",72
+long_term,LilyPichu,otacore,48
+long_term,Alan Walker,electro house,80
+long_term,Ariel Posen,manitoba indie,42
+long_term,The Jackson 5,"motown, soul",66
+long_term,Jack Johnson,neo mellow,75
+long_term,James Morrison,neo mellow,62
+long_term,Ben Platt,"broadway, show tunes",61
+long_term,Anna Kendrick,"hollywood, movie tunes",69
+long_term,Stan Getz,"bebop, bossa nova, cool jazz, jazz, jazz saxophone, latin jazz, samba-jazz, vocal jazz",65
+long_term,Travis Scott,"hip hop, rap, slap house",93
+long_term,Brett Young,"contemporary country, country, country road, modern country rock",65
+long_term,Bruno Major,singer-songwriter pop,65
+long_term,The Lumineers,"folk-pop, modern rock, stomp and holler",78
+long_term,Nothing But Thieves,"alternative pop rock, modern alternative rock, modern rock",69
+long_term,Daniel Caesar,canadian contemporary r&b,81
+long_term,Dove Cameron,pop,70
+long_term,The Dip,retro soul,54
+long_term,Hamish Anderson,modern blues rock,21
+long_term,Mumford & Sons,"modern folk rock, modern rock, neo mellow, stomp and holler, uk americana",72
+long_term,Lake Street Dive,"boston rock, indie folk, new americana",61
+long_term,Umbra,,31
+long_term,Lauv,pop,75
+long_term,SYML,"indie anthem-folk, modern indie pop",71
+long_term,Eric Clapton,"album rock, blues rock, classic rock, electric blues, mellow gold, rock, singer-songwriter, soft rock",70
+long_term,Dan + Shay,"contemporary country, country, country road",69
+long_term,Nicki Minaj,"hip pop, pop, queens hip hop, rap",87
+long_term,Miles Davis,"cool jazz, hard bop, jazz, jazz fusion, jazz trumpet, soul, vocal jazz",62
+long_term,Avril Lavigne,"canadian pop, candy pop, dance pop, pop",75
+long_term,Queen,"classic rock, glam rock, rock",84
+long_term,Fiji Blue,"chill pop, chill r&b",55
+long_term,Less Gravity,"lo-fi vgm, weirdcore",51
+long_term,Lewis Capaldi,"pop, uk pop",81
+long_term,Mac Miller,"hip hop, pittsburgh rap, rap",81
+long_term,George Benson,"jazz funk, jazz guitar, smooth jazz, soul jazz, yacht rock",63
+long_term,St. Paul & The Broken Bones,retro soul,53
+long_term,The Front Bottoms,"asbury park indie, emo, new jersey indie, pov: indie",60
+long_term,Ashe,alt z,69
+long_term,Sam Fender,"modern rock, north east england indie",69
+long_term,Blake Rose,"australian electropop, singer-songwriter pop",51
+long_term,The Goo Goo Dolls,"neo mellow, permanent wave, pop rock, post-grunge",72
+long_term,Escape the Fate,"alternative metal, metalcore, neon pop punk, pixie, pop punk, post-grunge, screamo",61
+long_term,Jake Scott,"indiecoustica, singer-songwriter pop",57
+long_term,Marcus King,"modern blues, modern blues rock",53
+long_term,Sum 41,"alternative metal, canadian pop punk, canadian punk, modern rock, pop punk, post-grunge, punk, rock",72
+long_term,BOYS LIKE GIRLS,"neon pop punk, pop punk",60
+long_term,Del Water Gap,"deep new americana, indie pop, pov: indie",60
+long_term,Alabama Shakes,"alabama indie, modern blues rock, rock",59
+long_term,Oceanic,virginia indie,23
+long_term,NIGHT TRAVELER,hopebeat,36
+long_term,Anne-Marie,pop,78
+long_term,Mandy Moore,"dance pop, neo mellow, post-teen pop",63
+long_term,Parachute,"acoustic pop, charlottesville indie, neo mellow, neon pop punk, pop rock, viral pop",48
+long_term,Landon Conrath,,51
+long_term,Tedeschi Trucks Band,"blues rock, electric blues, jam band, modern blues, southern rock",51
+long_term,Dobie Gray,northern soul,49
+long_term,Juice WRLD,"chicago rap, melodic rap, rap",87
+long_term,Maggie Rogers,indie pop,70
+long_term,Nick Jonas,"dance pop, pop",63
+long_term,Paul McCartney,"classic rock, mellow gold, rock, soft rock",71
+long_term,The Brook & The Bluff,alabama indie,50
+long_term,Georgia Greene,gen z singer-songwriter,16
+long_term,Morgan Wallen,contemporary country,87
+long_term,RYLY,hopebeat,24
+long_term,Lawrence,"nyc pop, retro soul",53
+long_term,Aly & AJ,"dance pop, girl group, post-teen pop",54
+long_term,Gov't Mule,"blues rock, electric blues, jam band, modern blues, modern blues rock, southern rock",44
+long_term,Bre Kennedy,nashville singer-songwriter,39
+long_term,Dan Auerbach,modern blues rock,55
+long_term,AJR,pov: indie,73
+long_term,Troy,movie tunes,59
+long_term,Chappell Roan,"indie pop, springfield mo indie",64
+long_term,Perlo,ambient folk,28
+long_term,Wes Montgomery,"hard bop, jazz, jazz guitar",50
+long_term,James TW,"british singer-songwriter, uk pop",63
+long_term,BENEE,"alt z, nz pop",63
+long_term,Pusha T,"gangster rap, hip hop, pop rap, rap, southern hip hop, trap, virginia hip hop",73
+long_term,Amos Lee,"acoustic pop, neo mellow, stomp and holler",58
+long_term,Glee Cast,"glee club, post-teen pop",68
+long_term,The Heavy,"bath indie, modern blues rock",56
+long_term,The Colourist,"indie poptimism, metropopolis, shimmer pop",38
+long_term,Polaris,"australian metalcore, australian post-hardcore, melodic metalcore, metalcore",60
+long_term,Guthrie Govan,instrumental rock,45
+long_term,Every Avenue,"neon pop punk, pop punk",45
+long_term,Gatlin,modern alternative pop,50
+long_term,Bee Gees,"disco, mellow gold, soft rock",77
+long_term,Future,"atl hip hop, hip hop, rap, southern hip hop, trap",89
+long_term,I The Mighty,"bay area indie, progressive post-hardcore",39
+long_term,Saint Motel,"la indie, modern alternative rock, modern rock, pov: indie",62
+long_term,Taking Back Sunday,"emo, neon pop punk, pop punk, post-hardcore, screamo",61
+long_term,Gotye,australian pop,68
+long_term,Maisie Peters,"alt z, uk pop",65
+long_term,Kristen Bell,movie tunes,65
+long_term,Buck & Evans,,14
+long_term,Rob Thomas,"neo mellow, pop rock, post-grunge",60
+long_term,Florida Georgia Line,"contemporary country, country, country pop, country road, modern country rock",73
+long_term,girl in red,"bedroom pop, indie pop, norwegian indie, pov: indie",74
+long_term,Talltale,modern alternative pop,23
+long_term,ayokay,"electropop, indie electropop, indie pop rap, indie poptimism",49
+long_term,Fleet Foxes,"chamber pop, folk, indie folk, indie rock, indietronica, modern rock, seattle indie, singer-songwriter, stomp and holler",63
+long_term,HAIM,"indietronica, metropopolis",64
+long_term,"Tyler, The Creator","hip hop, rap",84
+long_term,Shannon Lauren Callihan,,36
+long_term,JP Cooper,uk pop,65
+long_term,First and Forever,pop punk,49
+long_term,Breaking Benjamin,"alternative metal, nu metal, post-grunge",70
+long_term,Social House,,63
+long_term,Freddie King,"blues, blues rock, electric blues, texas blues, traditional blues",49
+long_term,Jackson Browne,"album rock, classic rock, country rock, folk, folk rock, heartland rock, mellow gold, piano rock, singer-songwriter, soft rock",60
+long_term,Evanescence,alternative metal,72
+long_term,Gregory Alan Isakov,"indie folk, pop folk, stomp and flutter, stomp and holler",70
+long_term,Jordan Fisher,"movie tunes, post-teen pop",57
+long_term,Ray LaMontagne,"acoustic pop, indie folk, neo mellow, stomp and holler",63
+long_term,Matt Wertz,"acoustic pop, neo mellow",37
+long_term,Sam Fischer,"australian pop, singer-songwriter pop",61
+long_term,Hayley Williams,art pop,65
+long_term,Maxine Nightingale,classic uk pop,48
+long_term,Vacation Manor,hopebeat,47
+long_term,Thomas Rhett,"contemporary country, country, country road, modern country rock",72
+long_term,The Paper Kites,"australian indie folk, indie anthem-folk, indie folk, stomp and flutter, stomp and holler",69
+long_term,Cody Fry,indiecoustica,58
+long_term,Ella Henderson,"dance pop, pop dance, talent show, uk pop",72
+long_term,NF,"hip hop, pop rap",79
+long_term,LORDFI,lo-fi cover,28
+long_term,Redbone,"native american contemporary, native american traditional",61
+long_term,Joji,viral pop,78
+long_term,Phil Collins,"rock drums, soft rock",75
+long_term,Allen Stone,retro soul,51
+long_term,Lil Baby,"atl hip hop, atl trap, rap, trap",86
+long_term,Sam Cooke,"classic soul, soul, vocal jazz",68
+long_term,Brett Eldredge,"contemporary country, country, country road, modern country rock",59
+long_term,Ludwig Göransson,"nordic soundtrack, orchestral soundtrack, soundtrack",67
+long_term,The Chicks,"contemporary country, country, country dawn",66
+long_term,Nashville Cast,,48
+long_term,Todd Baker,video game music,37
+long_term,Disatelier,,25
+long_term,The Temptations,"classic soul, memphis soul, motown, soul",67
+long_term,Jeremy Zucker,"alt z, electropop, pop",68
+long_term,Weezer,"alternative rock, modern power pop, modern rock, permanent wave, rock",73
+long_term,The Beach Boys,"baroque pop, classic rock, folk rock, mellow gold, psychedelic rock, rock, sunshine pop",71
+long_term,Camo Columbo,,31
+long_term,Chance Peña,singer-songwriter pop,72
+long_term,Looking Glass,sunshine pop,56
+long_term,Hailee Steinfeld,pop,68
+long_term,Meghan Trainor,"hip pop, pop",76
+long_term,Bing Crosby,"adult standards, easy listening, lounge",64
+long_term,Joe Jonas,"pop, post-teen pop",55
+long_term,Aretha Franklin,"classic soul, jazz blues, memphis soul, neo soul, soul, southern soul, vocal jazz",70
+long_term,Seaway,"anthem emo, canadian pop punk, canadian punk, easycore, pop punk",36
+long_term,Burl Ives,american folk revival,56
+long_term,DJ Khaled,"hip hop, miami hip hop, pop rap, rap",75
+long_term,Bill Withers,"classic soul, funk, quiet storm, soul",73
+long_term,Carpenters,"adult standards, mellow gold, soft rock",67
+long_term,Norah Jones,"contemporary vocal jazz, jazz pop, vocal jazz",73
+long_term,Andy Grammer,"neo mellow, post-teen pop, viral pop",66
+long_term,Mitski,"brooklyn indie, pov: indie",84
+long_term,The Jacksons,"disco, motown",57
+long_term,The Doobie Brothers,"album rock, classic rock, country rock, folk rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock, yacht rock",66
+long_term,Brent Faiyaz,"r&b, rap",84
+long_term,Dean Martin,"adult standards, easy listening, lounge, vocal jazz",69
+long_term,Duke Ellington,"african-american classical, harlem renaissance, jazz, jazz piano, swing, vocal jazz",57
+long_term,FIFTY FIFTY,k-pop girl group,68
+long_term,Lynyrd Skynyrd,"album rock, classic rock, hard rock, rock, southern rock",72
+long_term,The Dave Brubeck Quartet,"bebop, jazz, jazz quartet",56
+long_term,Steven Universe,pov: indie,66
+long_term,REO Speedwagon,"album rock, classic rock, glam metal, hard rock, heartland rock, mellow gold, rock, soft rock",64
+long_term,Chelsea Cutler,alt z,66
+long_term,ZAYN,"pop, uk pop",75
+long_term,d4vd,bedroom pop,77
+long_term,Rosie Darling,alt z,55
+long_term,The Band Perry,"contemporary country, country, country dawn, country road",55
+long_term,George Harrison,"album rock, classic rock, folk rock, mellow gold, rock, singer-songwriter, soft rock",66
+long_term,Kina Grannis,"acoustic pop, viral pop",59
+long_term,Electric Light Orchestra,"album rock, art rock, beatlesque, classic rock, glam rock, mellow gold, rock, soft rock, symphonic rock",70
+long_term,Clinton Kane,"alt z, gen z singer-songwriter",63
+long_term,The Police,"album rock, classic rock, permanent wave, rock",76
+long_term,Zac Efron,"hollywood, movie tunes, post-teen pop",67
+long_term,Bleachers,"indie pop, indie poptimism, modern rock, pov: indie",69
+long_term,Gorillaz,"alternative hip hop, modern rock, rock",78
+long_term,Bon Jovi,"glam metal, rock",77
+long_term,Glen Campbell,"adult standards, arkansas country, classic country pop, folk rock, mellow gold, nashville sound, singer-songwriter, soft rock",61
+long_term,Chris Lane,"contemporary country, country, country road, modern country rock",56
+long_term,Plain White T's,"modern rock, neo mellow, neon pop punk, pop punk, pop rock",63
+long_term,The Teskey Brothers,australian americana,63
+long_term,Rod Stewart,"mellow gold, soft rock",72
+long_term,Dizzy Gillespie,"bebop, contemporary post-bop, jazz, jazz trumpet, vocal jazz",49
+long_term,Albert King,"blues, blues rock, electric blues, memphis soul, soul blues, traditional blues",49
+long_term,Lana Del Rey,"art pop, pop",90
+long_term,Reba McEntire,"classic oklahoma country, contemporary country, country, country dawn, country road",61
+long_term,Jay & The Americans,"bubblegum pop, classic garage rock, doo-wop, merseybeat, rock-and-roll",49
+long_term,The Marcus King Band,"jam band, modern blues, modern blues rock",51
+long_term,Keith Urban,"australian country, australian pop, contemporary country, country, country road, modern country rock",68
+long_term,BROCKHAMPTON,"boy band, rap",64
+long_term,Kevin Gates,"baton rouge rap, rap, southern hip hop, trap",72
+long_term,Ne-Yo,"dance pop, pop, r&b, urban contemporary",79
+long_term,Tom Petty,"album rock, classic rock, hard rock, heartland rock, mellow gold, rock, singer-songwriter, soft rock",69
+long_term,Tony Bennett,"adult standards, easy listening, lounge, vocal jazz",62
+long_term,Tiësto,"big room, brostep, dutch edm, edm, house, pop dance, slap house, trance",84
+long_term,Bruce Springsteen,"heartland rock, mellow gold, permanent wave, rock, singer-songwriter",74
+long_term,Snow Patrol,"irish rock, modern rock, neo mellow, permanent wave, pop rock",68
+long_term,Zach Bryan,classic oklahoma country,87
+long_term,UMI,"alternative r&b, bedroom soul",68
+long_term,Grateful Dead,"cosmic american, jam band, psychedelic rock",64
+long_term,Radiohead,"alternative rock, art rock, melancholia, oxford indie, permanent wave, rock",81
+long_term,Adam Hambrick,"arkansas country, country pop",32
+long_term,The Spinners,"classic soul, disco, funk, motown, philly soul, quiet storm, soul, southern soul",59
+long_term,Leona Lewis,"british soul, dance pop, pop, talent show",65
+long_term,Wham!,"new romantic, new wave pop, soft rock",69
+long_term,Cold War Kids,"indie rock, modern alternative rock, modern rock, piano rock, stomp and holler",61
+long_term,AC/DC,"australian rock, hard rock, rock",81
+long_term,George Michael,new wave pop,72
+long_term,Whitney Houston,"dance pop, pop",75
+long_term,The Black Keys,"alternative rock, blues rock, garage rock, indie rock, indietronica, modern blues rock, modern rock, punk blues, rock, roots rock",72
+long_term,Disclosure,"edm, house, indietronica, uk dance",72
+long_term,Mat Kearney,"acoustic pop, neo mellow",52
+long_term,Cast of High School Musical: The Musical: The Series,movie tunes,47
+long_term,Jung Kook,k-pop,86
+long_term,Bad Bunny,"reggaeton, trap latino, urbano latino",95
